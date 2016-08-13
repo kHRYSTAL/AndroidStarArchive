@@ -37,3 +37,33 @@ https://github.com/remobile/react-native-toast
 
 JustWeTools : 包含工具类和多个不同场景下的控件
 https://github.com/lfkdsk/JustWeTools
+
+SaveVolley : 基于agera和okhttp3
+https://github.com/CaMnter/SaveVolley
+
+Fast-Android-Networking : 基于okhttp3和rxjava
+https://github.com/amitshekhariitbhu/Fast-Android-Networking
+
+InstaCapture : 对屏幕截图支持忽略view
+https://github.com/tarek360/InstaCapture
+
+RainbowBridge : java与js互相安全调用
+https://github.com/Sunzxyong/RainbowBridge
+
+jpinyin : 汉字转拼音
+https://github.com/stuxuhai/jpinyin
+
+Android-ServiceManager : 简化跨进程调用 不需要使用aidl 信使
+https://github.com/limpoxe/Android-ServiceManager
+
+RxPermissions : 6.0运行时权限工具 依赖rxjava
+https://github.com/tbruyelle/RxPermissions
+
+TedPermission : 运行时权限工具
+https://github.com/ParkSangGwon/TedPermission
+
+awex : 依赖线程池控制线程任务的工具
+https://github.com/raycoarana/awex
+
+FastLayout : 通过依赖注入获取布局
+https://github.com/FabianTerhorst/FastLayout

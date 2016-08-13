@@ -9,3 +9,6 @@ https://github.com/fabiomsr/MoneyTextView
 
 ParkedTextField
 https://github.com/gmertk/ParkedTextField
+
+Badge : 生成drawable 以badge加入textview中
+https://github.com/nekocode/Badge

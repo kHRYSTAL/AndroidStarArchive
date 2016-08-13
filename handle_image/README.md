@@ -15,3 +15,12 @@ https://github.com/bingoogolapple/BGAPhotoPicker-Android
 
 wqgallery : 相册多选单选
 https://github.com/wqandroid/wqgallery
+
+Compressor : 图片压缩策略
+https://github.com/zetbaitsu/Compressor
+
+android-crop : 图片剪裁
+https://github.com/jdamcd/android-crop
+
+LowPoly : low poly 风格图片生成器
+https://github.com/zzhoujay/LowPoly
