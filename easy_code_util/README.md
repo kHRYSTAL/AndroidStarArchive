@@ -67,3 +67,6 @@ https://github.com/raycoarana/awex
 
 FastLayout : 通过依赖注入获取布局
 https://github.com/FabianTerhorst/FastLayout
+
+StatusBarAdapt : 各版本沉浸式状态栏实现
+https://github.com/CoolThink/StatusBarAdapt
