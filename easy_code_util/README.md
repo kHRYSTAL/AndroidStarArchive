@@ -71,6 +71,9 @@ https://github.com/limpoxe/Android-ServiceManager
 RxPermissions : 6.0运行时权限工具 依赖rxjava
 https://github.com/tbruyelle/RxPermissions
 
+rx-android-permissions : rxjava解决运行时权限
+https://github.com/beworker/rx-android-permissions
+
 TedPermission : 运行时权限工具
 https://github.com/ParkSangGwon/TedPermission
 
@@ -112,3 +115,45 @@ https://github.com/xiaopansky/Sketch
 
 ShareLoginLib : 简化sharesdk第三方登录分享
 https://github.com/tianzhijiexian/ShareLoginLib
+
+surveylib : 简易设置用户反馈的库
+https://github.com/AndreiD/surveylib
+
+Android Typeface Helper : 修改字体库
+https://github.com/norbsoft/android-typeface-helper
+
+SystemBarTint : 用于4.4下修改app 主题颜色
+https://github.com/hexiaochun/SystemBarTint
+
+uiModule : MD风格点击颜色扩散效果
+https://github.com/cuber5566/uiModule
+
+TinyPinyin : 比pinyin4j执行效率更高 内存占用更低
+https://github.com/promeG/TinyPinyin
+
+Android-Download-Manager : 文件下载管理 支持大文件下载 优先级 删除任务等等
+https://github.com/majidgolshadi/Android-Download-Manager-Pro
+
+glide : 图片加载
+https://github.com/bumptech/glide
+
+NightOwl :夜间模式切换
+https://github.com/ashqal/NightOwl
+
+Treasure : SharedPreferences扩展工具 不需要序列化 支持有效期 Gson转化等
+https://github.com/baoyongzhang/Treasure
+
+KLog : 日志打印 支持json格式并解决logcat最大长度限制支持日志转储
+https://github.com/ZhaoKaiQiang/KLog
+
+ClipboardManagerCompat : 粘贴板兼容库 兼容API Level1
+https://github.com/liaohuqiu/android-ClipboardManagerCompat
+
+RavenServer : 在微信中通过url启动一个Activity
+https://github.com/liaohuqiu/android-RavenServer
+
+retrofit
+https://github.com/square/retrofit
+
+Android-Next : 一整套框架
+https://github.com/mcxiaoke/Android-Next

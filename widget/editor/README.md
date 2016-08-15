@@ -18,3 +18,6 @@ https://github.com/rengwuxian/MaterialEditText
 
 MaterialSearchView
 https://github.com/Mauker1/MaterialSearchView
+
+Search-View-Layout : 搜索栏布局样式
+https://github.com/sahildave/Search-View-Layout

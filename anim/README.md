@@ -15,3 +15,9 @@ https://github.com/kakajika/FragmentAnimations
 
 JJSearchViewAnim : 搜索按钮动画
 https://github.com/android-cjj/JJSearchViewAnim
+
+AnimatorCompat : 快速创建属性动画的库
+https://github.com/zzz40500/AnimatorCompat
+
+AndroidViewAnimations : 快速创建各种动画的库
+https://github.com/daimajia/AndroidViewAnimations

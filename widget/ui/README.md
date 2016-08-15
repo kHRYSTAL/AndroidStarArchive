@@ -28,6 +28,9 @@ https://github.com/ldoublem/ThumbUp
 SeatTable : 电影院选座
 https://github.com/qifengdeqingchen/SeatTable
 
+SelectMovieSeat : 电影选座
+https://github.com/captain-miao/SelectMovieSeat
+
 FlightSeat : 飞机选座
 https://github.com/ldoublem/FlightSeat
 
@@ -116,6 +119,15 @@ https://github.com/square/android-times-square
 android-spinnerwheel : 滚轮日期控件
 https://github.com/ai212983/android-spinnerwheel
 
+CharacterPickerView : 三级联动选择器
+https://github.com/alafighting/CharacterPickerView
+
+Android-PickerView : 日期/选项选择器
+https://github.com/saiwu-bigkoo/Android-PickerView
+
+androidWheelView : 仿iOS滚轮控件 有视差阴影
+https://github.com/weidongjian/androidWheelView
+
 AndroidPdfViewer
 https://github.com/barteksc/AndroidPdfViewer
 
@@ -137,6 +149,9 @@ https://github.com/qyxxjd/MultipleStatusView
 QQBubbleView : 直播平台点亮效果
 https://github.com/Yasic/QQBubbleView
 
+HeartLayout : 直播点亮效果
+https://github.com/tyrantgit/HeartLayout
+
 DrawerBehavior :CoordinatorLayout behavior
 https://github.com/JakeWharton/DrawerBehavior
 
@@ -145,6 +160,21 @@ https://github.com/pengjianbo/LoadingViewFinal
 
 jellyball : 刷新样式
 https://github.com/ImmortalZ/jellyball
+
+FlyRefresh : 纸飞机飞行动画
+https://github.com/race604/FlyRefresh
+
+AVLoadingIndicatorView : 加载动画|等待动画
+https://github.com/81813780/AVLoadingIndicatorView
+
+WaveProgressView : 水波纹动画
+https://github.com/zeng1990java/WaveProgressView
+
+MeiTuanRefreshListView : 仿美团下拉刷新动画
+https://github.com/nugongshou110/MeiTuanRefreshListView
+
+AutoHomeRefreshListView : 仿汽车之家刷新动画
+https://github.com/nugongshou110/AutoHomeRefreshListView
 
 SunBaby
 https://github.com/Hitomis/SunBaby
@@ -157,6 +187,12 @@ https://github.com/Cutta/GifView
 
 android-swipecards-view : 仿探探卡片切换
 https://github.com/Arjun-sna/android-swipecards-view
+
+AndroidSwipeableCardStack : 手势卡片切换
+https://github.com/wenchaojiang/AndroidSwipeableCardStack
+
+CardView : 手势卡片切换
+https://github.com/tomyZhou/CardView
 
 Shuffle : 卡片切换 支持撤销操作与无限循环
 https://github.com/Meetic/Shuffle
@@ -181,3 +217,9 @@ https://github.com/danielzeller/Depth-LIB-Android-
 
 WJMagicCurveView
 https://github.com/wingjay/WJMagicCurveView
+
+UndoBar : 支持提示及其他行为的操作栏（Snackbar）
+https://github.com/soarcn/UndoBar
+
+Highlight : 指向性功能高亮 用于首次进入app功能性提示
+https://github.com/hongyangAndroid/Highlight

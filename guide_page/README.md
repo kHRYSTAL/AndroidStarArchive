@@ -15,3 +15,6 @@ https://github.com/pantrif/EasySplashScreen
 
 XhsWelcomeAnim
 https://github.com/w446108264/XhsWelcomeAnim
+
+MaterialIntroTutorial : 一个设置引导页样式的库
+https://github.com/riggaroo/MaterialIntroTutorial

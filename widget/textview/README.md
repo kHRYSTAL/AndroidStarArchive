@@ -15,3 +15,12 @@ https://github.com/nekocode/Badge
 
 ReadMoreTextView : 点击展开效果
 https://github.com/borjabravo10/ReadMoreTextView
+
+TextViewForFullHtml : TextView解析HTML格式的增强
+https://github.com/xuyisheng/TextViewForFullHtml
+
+Aligned : 解决多行 TextView 文本对齐问题
+https://github.com/Actinarium/Aligned
+
+TrendTextView : 趋势可视化TextView
+https://github.com/hrules6872/TrendTextView

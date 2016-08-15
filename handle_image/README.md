@@ -13,6 +13,9 @@ https://github.com/wuhaoyu1990/MagicCamera
 BGAPhotoPicker : 相册 九宫格图片拖拽 选择图片等
 https://github.com/bingoogolapple/BGAPhotoPicker-Android
 
+FishBun : 相册
+https://github.com/sangcomz/FishBun
+
 wqgallery : 相册多选单选
 https://github.com/wqandroid/wqgallery
 

@@ -87,3 +87,22 @@ https://github.com/Skykai521/StickerCamera
 
 my_android_lottery : 彩票客户端(项目比较老 接口都没了)
 https://github.com/flystaros/my_android_lottery
+
+Hide-Music-Player : 音乐播放器
+https://github.com/w9xhc/Hide-Music-Player
+
+AndroidFileExplorer : 文件浏览器
+https://github.com/dibakarece/AndroidFileExplorer
+
+Gank-Veaer : gank.io 客户端
+
+https://github.com/Veaer/Gank-Veaer
+
+plaid
+https://github.com/nickbutcher/plaid
+
+GithubTrends : 看查看 Github 热门项目的 Android App
+https://github.com/laowch/GithubTrends
+
+DoubanMovie-React-Native : React Native版豆瓣电影
+https://github.com/fengjundev/DoubanMovie-React-Native

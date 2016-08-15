@@ -91,3 +91,6 @@ https://github.com/nswbmw/N-blog
 
 agera : 响应式编程
 https://github.com/google/agera
+
+ILoveBaidu : 卸载百度系应用
+https://github.com/liaohuqiu/android-ILoveBaidu

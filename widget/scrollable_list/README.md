@@ -36,3 +36,9 @@ https://github.com/youzan/TitanRecyclerView
 
 simple-section-adapter : listview adapter封装 操作更简便
 https://github.com/ragunathjawahar/simple-section-adapter
+
+CleverRecyclerView : RecyclerView 实现viewpager效果
+https://github.com/luckyandyzhang/CleverRecyclerView
+
+DragExpandGrid : 网格布局,支持拖拽展开排序
+https://github.com/wedcel/DragExpandGrid

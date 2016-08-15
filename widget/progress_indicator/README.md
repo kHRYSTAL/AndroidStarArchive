@@ -36,3 +36,18 @@ https://github.com/ImmortalZ/jellyball
 
 SunBaby
 https://github.com/Hitomis/SunBaby
+
+WaveProgressView : 水波纹动画
+https://github.com/zeng1990java/WaveProgressView
+
+MeiTuanRefreshListView : 仿美团下拉刷新动画
+https://github.com/nugongshou110/MeiTuanRefreshListView
+
+AutoHomeRefreshListView : 仿汽车之家刷新动画
+https://github.com/nugongshou110/AutoHomeRefreshListView
+
+DownloadProgressBar : 下载进度动画
+https://github.com/panwrona/DownloadProgressBar
+
+MaskProgressView : 适用于音乐进度 可设置专辑上走过进度的颜色
+https://github.com/iammert/MaskProgressView

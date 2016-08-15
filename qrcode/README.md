@@ -6,3 +6,6 @@ https://github.com/dm77/barcodescanner
 
 BGAQRCode-Android
 https://github.com/bingoogolapple/BGAQRCode-Android
+
+DimensCodeTools : 支持生成、扫描二维码条形码
+https://github.com/ng2Kaming/DimensCodeTools

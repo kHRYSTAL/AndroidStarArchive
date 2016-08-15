@@ -9,3 +9,9 @@ https://github.com/leancloud/leanmessage-demo
 
 美恰SDK
 https://github.com/Meiqia/MeiqiaSDK-Android
+
+融云demo 2.0
+https://github.com/rongcloud/demo-app-android-v2
+
+bmob-android-im-sdk bmob旧版即时通讯服务
+https://github.com/bmob/bmob-android-im-sdk

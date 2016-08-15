@@ -57,3 +57,23 @@ https://github.com/jobbole/awesome-python-cn
 https://github.com/easychen/howto-make-more-money
 
 https://github.com/sfsheng0322/In-depthStudy
+
+android-discuss : 问题交流
+
+https://github.com/android-cn/android-discuss
+
+
+Reactive Programming
+https://github.com/benjycui/introrx-chinese-edition
+
+Android 最佳实践
+https://github.com/tianzhijiexian/Android-Best-Practices
+
+Android-CleanArchitecture : 用sample演示干净的架构
+https://github.com/android10/Android-CleanArchitecture
+
+RengwuxianRxjava : rxjava 讲解
+https://github.com/androidmalin/RengwuxianRxjava
+
+used_books : 闲置二手书
+https://github.com/yangyangwithgnu/used_books

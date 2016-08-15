@@ -27,3 +27,15 @@ https://github.com/danylovolokh/ImageTransition
 
 QuickSand : 图片分解效果
 https://github.com/blundell/QuickSand
+
+ScalableImageView : scale type扩展支持更多的展现形式
+https://github.com/yqritc/Android-ScalableImageView
+
+PinchImageView : 支持手势放大缩小
+https://github.com/boycy815/PinchImageView
+
+GestureViews : 支持各种手势操作 嵌入viewpager中的操作 支持裁切等等
+https://github.com/alexvasilkov/GestureViews
+
+FillDrawable : 通过Drawable实现进度效果
+https://github.com/noties/FillDrawable

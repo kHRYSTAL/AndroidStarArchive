@@ -12,3 +12,9 @@ https://github.com/saiwu-bigkoo/Android-ConvenientBanner
 
 MagicViewPager : 封装viewpager transfromer
 https://github.com/hongyangAndroid/MagicViewPager
+
+auto-scroll-view-pager : 自动滚动viewpager
+https://github.com/Trinea/android-auto-scroll-view-pager
+
+VerticalViewPager : 纵向viewpager
+https://github.com/kaelaela/VerticalViewPager
