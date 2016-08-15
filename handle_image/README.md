@@ -10,7 +10,7 @@ https://github.com/aryarohit07/PicassoFaceDetectionTransformation
 MagicCamera : 滤镜 拍照 录像 图片修改
 https://github.com/wuhaoyu1990/MagicCamera
 
-BGAPhotoPicker : 九宫格图片拖拽 选择图片等
+BGAPhotoPicker : 相册 九宫格图片拖拽 选择图片等
 https://github.com/bingoogolapple/BGAPhotoPicker-Android
 
 wqgallery : 相册多选单选
@@ -24,3 +24,9 @@ https://github.com/jdamcd/android-crop
 
 LowPoly : low poly 风格图片生成器
 https://github.com/zzhoujay/LowPoly
+
+ImageEditor-Android : 图片编辑工具
+https://github.com/siwangqishiq/ImageEditor-Android
+
+android-gpuimage : 基于OPENGL的滤镜处理
+https://github.com/CyberAgent/android-gpuimage

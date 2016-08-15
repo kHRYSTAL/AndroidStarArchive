@@ -13,6 +13,12 @@ https://github.com/wuman/android-oauth-client
 KJFrameForAndroid : orm 和 ioc , 图像处理, http操作框架
 https://github.com/kymjs/KJFrameForAndroid
 
+AndroidRapidLibrary : ui 网络 框架
+https://github.com/lidong1665/AndroidRapidLibrary
+
+Conductor : 一套视图框架
+https://github.com/bluelinelabs/Conductor
+
 LogReport : 崩溃日志报告 支持发送邮件
 https://github.com/wenmingvs/LogReport
 
@@ -44,6 +50,12 @@ https://github.com/CaMnter/SaveVolley
 Fast-Android-Networking : 基于okhttp3和rxjava
 https://github.com/amitshekhariitbhu/Fast-Android-Networking
 
+OkHttpFinal
+https://github.com/pengjianbo/OkHttpFinal
+
+OkHttpUtils
+https://github.com/jeasonlzy0216/OkHttpUtils
+
 InstaCapture : 对屏幕截图支持忽略view
 https://github.com/tarek360/InstaCapture
 
@@ -62,6 +74,12 @@ https://github.com/tbruyelle/RxPermissions
 TedPermission : 运行时权限工具
 https://github.com/ParkSangGwon/TedPermission
 
+let : 运行时权限工具
+https://github.com/canelmas/let
+
+Dexter : 运行时权限处理
+https://github.com/Karumi/Dexter
+
 awex : 依赖线程池控制线程任务的工具
 https://github.com/raycoarana/awex
 
@@ -70,3 +88,27 @@ https://github.com/FabianTerhorst/FastLayout
 
 StatusBarAdapt : 各版本沉浸式状态栏实现
 https://github.com/CoolThink/StatusBarAdapt
+
+Fragmentation : Fragment管理库
+https://github.com/YoKeyword/Fragmentation
+
+UpdatePlugin : 封装应用更新操作 可任意定制（不支持差分包）
+https://github.com/yjfnypeu/UpdatePlugin
+
+flow : 记录ui状态
+https://github.com/square/flow
+
+auto-value-gson : autovalue gson工具
+https://github.com/rharter/auto-value-gson
+
+AutoJackson : autovalue jackson工具
+https://github.com/artem-zinnatullin/AutoJackson
+
+CustomActivityOnCrash : 应用崩溃弹出界面
+https://github.com/Ereza/CustomActivityOnCrash
+
+Sketch : 图片加载工具 支持gif 占位 列表中不错位
+https://github.com/xiaopansky/Sketch
+
+ShareLoginLib : 简化sharesdk第三方登录分享
+https://github.com/tianzhijiexian/ShareLoginLib

@@ -15,3 +15,15 @@ https://github.com/liaoinstan/SpringView
 
 BottomSheet : 23.2.0发布的新控件 支持2.1+
 https://github.com/soarcn/BottomSheet
+
+ExpandableLayout : 支持view 列表的展开 支持横向展开 抽屉效果
+https://github.com/cachapa/ExpandableLayout
+
+AndroidSwipeLayout : 横向抽屉效果
+https://github.com/daimajia/AndroidSwipeLayout
+
+SortableTableView : 支持排序的列表
+https://github.com/ISchwarz23/SortableTableView
+
+folding-cell-android : 抽屉展开效果
+https://github.com/Ramotion/folding-cell-android

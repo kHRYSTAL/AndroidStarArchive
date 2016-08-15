@@ -9,3 +9,9 @@ https://github.com/SpikeKing/BottomDialogDemo
 
 dialogplus
 https://github.com/orhanobut/dialogplus
+
+MaryPopup : 通过popupwindow实现类似共享元素样式对话框
+https://github.com/Meetic/MaryPopup
+
+SwipeAwayDialog : 手势滑动关闭
+https://github.com/kakajika/SwipeAwayDialog

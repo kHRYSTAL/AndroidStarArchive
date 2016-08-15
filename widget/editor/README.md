@@ -12,3 +12,9 @@ https://github.com/ldoublem/PassWordInput
 
 GridPasswordView : 密码输入样式
 https://github.com/Jungerr/GridPasswordView
+
+MaterialEditText
+https://github.com/rengwuxian/MaterialEditText
+
+MaterialSearchView
+https://github.com/Mauker1/MaterialSearchView

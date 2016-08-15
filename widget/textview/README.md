@@ -12,3 +12,6 @@ https://github.com/gmertk/ParkedTextField
 
 Badge : 生成drawable 以badge加入textview中
 https://github.com/nekocode/Badge
+
+ReadMoreTextView : 点击展开效果
+https://github.com/borjabravo10/ReadMoreTextView

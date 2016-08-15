@@ -1,6 +1,25 @@
+### AndroidStudio 插件
+
+wifi调试插件
 https://github.com/pedrovgs/AndroidWiFiADB
 
+butterknife替换插件
 https://github.com/u3shadow/RemoveButterKnife
+
+英文翻译插件
+https://github.com/Skykai521/ECTranslation
+
+permissions-dispatcher-plugin : 自动生成运行时权限代码
+https://github.com/shiraji/permissions-dispatcher-plugin
+
+android-xml-sorter : strings.xml排序
+https://github.com/roana0229/android-xml-sorter
+
+LayoutFormatter : xml格式化工具
+https://github.com/drakeet/LayoutFormatter
+
+### Other
+https://github.com/unbug/codelf
 
 https://github.com/ipython/ipython
 
@@ -45,18 +64,30 @@ https://github.com/mailru/FileAPI
 
 https://github.com/yyuu/pyenv
 
+android-classyshark : 反编译工具
+https://github.com/google/android-classyshark
+
 https://github.com/XiaoMi/open-falcon
 https://github.com/triaquae/triaquae
 
 https://github.com/duoduo369/weixin_server
 https://github.com/yueyoum/django-siteuser
 
+https://github.com/pallets/flask
+
 https://github.com/alibaba/LuaViewSDK
 
 https://github.com/buunguyen/octotree
+
+https://github.com/Pyiner/Blog
 
 前端工具
 https://github.com/uikit/uikit
 
 MultiChannelPackageTool : 多渠道打包工具
 https://github.com/seven456/MultiChannelPackageTool
+
+https://github.com/nswbmw/N-blog
+
+agera : 响应式编程
+https://github.com/google/agera

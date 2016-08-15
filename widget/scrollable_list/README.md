@@ -18,3 +18,21 @@ https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
 
 Paginate : 列表分页加载 支持recyclerview和abslistview的子类
 https://github.com/MarkoMilos/Paginate
+
+FlexibleAdapter : 通过adapter实现recyclerview的大部分手势操作
+https://github.com/davideas/FlexibleAdapter
+
+HexGrid : 蜂窝样式列表
+https://github.com/Guardiola31337/HexGrid
+
+AdapterDelegates : 简化多类型列表处理(带自动加载功能的recyclerview不支持)
+https://github.com/sockeqwe/AdapterDelegates
+
+StickyHeaderListView
+https://github.com/sfsheng0322/StickyHeaderListView
+
+TitanRecyclerView : 支持header footer与loadmoreui
+https://github.com/youzan/TitanRecyclerView
+
+simple-section-adapter : listview adapter封装 操作更简便
+https://github.com/ragunathjawahar/simple-section-adapter

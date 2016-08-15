@@ -3,3 +3,6 @@ https://github.com/OfficialAmal/ChipLayout
 
 TagCloudView : 标签云
 https://github.com/kingideayou/TagCloudView
+
+android-drag-FlowLayout
+https://github.com/LightSun/android-drag-FlowLayout

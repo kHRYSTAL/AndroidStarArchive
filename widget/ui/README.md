@@ -10,6 +10,12 @@ https://github.com/antwankakki/FabricView
 FabDialogMorph : FAB 与 Dialog 过渡
 https://github.com/hujiaweibujidao/FabDialogMorph
 
+Floating-Navigation-View : FAB 与 NavgationView 过渡
+https://github.com/andremion/Floating-Navigation-View
+
+FloatingToolbar : FAB与底部工具栏过渡
+https://github.com/rubensousa/FloatingToolbar
+
 Swipeback : 手势关闭交互
 https://github.com/liuguangqiang/SwipeBack
 
@@ -46,8 +52,14 @@ https://github.com/ldoublem/PaperShredder
 StereoView : 3D旋转容器
 https://github.com/ImmortalZ/StereoView
 
+LoopRotarySwitch : 3D 旋转效果
+https://github.com/dalong982242260/LoopRotarySwitch
+
 FogView_Library : 刮刮卡
 https://github.com/dynamitechetan/FogView_Library
+
+ScratchView : 刮刮卡
+https://github.com/cooltechworks/ScratchView
 
 ConstraintLayout : Android ConstraintLayout示例
 https://github.com/hitherejoe/Constraints
@@ -101,6 +113,9 @@ https://github.com/roomorama/Caldroid
 android-times-square : 日历控件
 https://github.com/square/android-times-square
 
+android-spinnerwheel : 滚轮日期控件
+https://github.com/ai212983/android-spinnerwheel
+
 AndroidPdfViewer
 https://github.com/barteksc/AndroidPdfViewer
 
@@ -112,6 +127,9 @@ https://github.com/cooltechworks/CreditCardView
 
 MapView : 室内地图
 https://github.com/onlylemi/MapView
+
+InDoorSurfaceView : 室内地图
+https://github.com/karonl/InDoorSurfaceView
 
 MultipleStatusView
 https://github.com/qyxxjd/MultipleStatusView
@@ -125,5 +143,41 @@ https://github.com/JakeWharton/DrawerBehavior
 LoadingViewFinal : 下拉刷新 加载更多组件库
 https://github.com/pengjianbo/LoadingViewFinal
 
+jellyball : 刷新样式
+https://github.com/ImmortalZ/jellyball
+
+SunBaby
+https://github.com/Hitomis/SunBaby
+
+-dampView-springingView
+https://github.com/Huyamin150/-dampView-springingView
+
 GifView : 加载gif图片
 https://github.com/Cutta/GifView
+
+android-swipecards-view : 仿探探卡片切换
+https://github.com/Arjun-sna/android-swipecards-view
+
+Shuffle : 卡片切换 支持撤销操作与无限循环
+https://github.com/Meetic/Shuffle
+
+CarouselLayoutManager : 卡片 gallery视差滑动效果
+https://github.com/Azoft/CarouselLayoutManager
+
+ImageTransition : 通过view动画实现共享元素示例
+https://github.com/danylovolokh/ImageTransition
+
+flexbox-layout
+https://github.com/google/flexbox-layout
+
+MaryPopup : 通过popupwindow实现类似共享元素样式对话框
+https://github.com/Meetic/MaryPopup
+
+EasyCountDownTextureView : 倒计时控件
+https://github.com/CaMnter/EasyCountDownTextureView
+
+Depth-LIB-Android-
+https://github.com/danielzeller/Depth-LIB-Android-
+
+WJMagicCurveView
+https://github.com/wingjay/WJMagicCurveView

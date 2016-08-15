@@ -60,3 +60,30 @@ https://github.com/QingdaoU/OnlineJudge
 
 基于python和Django的博客系统
 https://github.com/lzjun567/django_blog
+
+T-MVP : MVP和范型深度解构简化代码项目
+https://github.com/north2014/T-MVP
+
+MVPCommon : MVP示例项目
+https://github.com/CameloeAnthony/MVPCommon
+
+Bourbon
+https://github.com/hitherejoe/Bourbon
+
+GithubWidget : github桌面小工具
+https://github.com/Nightonke/GithubWidget
+
+DYTT : 电影天堂第三方app
+https://github.com/biezhihua/DYTT
+
+BasePedo : 计步器
+https://github.com/xfmax/BasePedo
+
+DMPlayer : 音乐播放器
+https://github.com/dibakarece/DMPlayer
+
+StickerCamera : 相机应用
+https://github.com/Skykai521/StickerCamera
+
+my_android_lottery : 彩票客户端(项目比较老 接口都没了)
+https://github.com/flystaros/my_android_lottery

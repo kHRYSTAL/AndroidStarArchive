@@ -9,3 +9,6 @@ https://github.com/qs-lll/ExpandingPager
 
 Android-ConvenientBanner : 加入无限循环和transformer效果
 https://github.com/saiwu-bigkoo/Android-ConvenientBanner
+
+MagicViewPager : 封装viewpager transfromer
+https://github.com/hongyangAndroid/MagicViewPager

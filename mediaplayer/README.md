@@ -12,3 +12,6 @@ https://github.com/google/ExoPlayer
 
 UniversalVideoView
 https://github.com/linsea/UniversalVideoView
+
+easy-video-player
+https://github.com/afollestad/easy-video-player

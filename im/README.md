@@ -6,3 +6,6 @@ https://github.com/mogujie/TeamTalk
 
 leancloud简易demo
 https://github.com/leancloud/leanmessage-demo
+
+美恰SDK
+https://github.com/Meiqia/MeiqiaSDK-Android

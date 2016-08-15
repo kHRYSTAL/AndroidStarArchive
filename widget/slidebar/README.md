@@ -6,3 +6,9 @@ https://github.com/Solartisan/WaveSideBar
 
 Android-QuickSideBar
 https://github.com/saiwu-bigkoo/Android-QuickSideBar
+
+DoubleSeekBar
+https://github.com/jackrex/DoubleSeekBar
+
+EasyRecyclerViewSidebar
+https://github.com/CaMnter/EasyRecyclerViewSidebar
