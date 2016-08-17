@@ -106,3 +106,21 @@ https://github.com/laowch/GithubTrends
 
 DoubanMovie-React-Native : React Native版豆瓣电影
 https://github.com/fengjundev/DoubanMovie-React-Native
+
+Munch : RSS阅读器
+https://github.com/crazyhitty/Munch
+
+LeanStorageDemo-Android : LeanCloud 存储demo
+https://github.com/leancloud/LeanStorageDemo-Android
+
+Idaily : rxjava MVVM 版本知乎日报
+https://github.com/liuguangqiang/Idaily
+
+weiciyuan : 新浪微博客户端
+https://github.com/qii/weiciyuan
+
+SimplifyReader : 简阅客户端
+https://github.com/SkillCollege/SimplifyReader
+
+CircleDemo : 朋友圈实现 支持短视频拍摄
+https://github.com/Naoki2015/CircleDemo

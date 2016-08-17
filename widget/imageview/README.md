@@ -39,3 +39,12 @@ https://github.com/alexvasilkov/GestureViews
 
 FillDrawable : 通过Drawable实现进度效果
 https://github.com/noties/FillDrawable
+
+android-anyshape : 通过 src_in 实现两个图片的交集 展现各种形状
+https://github.com/lankton/android-anyshape
+
+MultipleImageView : 在一个imageview里展示多张图片 类似朋友圈多图效果 配合recyclerview更佳
+https://github.com/xufan/MultipleImageView
+
+ImageBrowse : 图像共享元素打开效果 支持手势缩放与切换图片
+https://github.com/brucetoo/ImageBrowse

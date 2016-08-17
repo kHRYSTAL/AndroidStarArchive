@@ -21,3 +21,16 @@ https://github.com/zzz40500/AnimatorCompat
 
 AndroidViewAnimations : 快速创建各种动画的库
 https://github.com/daimajia/AndroidViewAnimations
+
+YummyTextSwitcher : 文字转盘动画
+https://github.com/UFreedom/YummyTextSwitcher
+
+ArrowDownloadButton : 下载按钮的动画
+https://github.com/fenjuly/ArrowDownloadButton
+
+CircularReveal : 兼容14以上的CircularReveal动画
+https://github.com/ozodrukh/CircularReveal
+https://github.com/sephiroth74/ViewRevealAnimator
+
+ViewAnimator : view的动画库封装
+https://github.com/florent37/ViewAnimator

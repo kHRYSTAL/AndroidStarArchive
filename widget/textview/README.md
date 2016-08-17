@@ -16,6 +16,9 @@ https://github.com/nekocode/Badge
 ReadMoreTextView : 点击展开效果
 https://github.com/borjabravo10/ReadMoreTextView
 
+ExpandableTextView : 点击展开效果
+https://github.com/Manabu-GT/ExpandableTextView
+
 TextViewForFullHtml : TextView解析HTML格式的增强
 https://github.com/xuyisheng/TextViewForFullHtml
 
@@ -24,3 +27,6 @@ https://github.com/Actinarium/Aligned
 
 TrendTextView : 趋势可视化TextView
 https://github.com/hrules6872/TrendTextView
+
+YummyTextSwitcher : 文字转盘动画
+https://github.com/UFreedom/YummyTextSwitcher

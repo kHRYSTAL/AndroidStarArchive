@@ -18,3 +18,9 @@ https://github.com/Trinea/android-auto-scroll-view-pager
 
 VerticalViewPager : 纵向viewpager
 https://github.com/kaelaela/VerticalViewPager
+
+HeaderViewPager : 共享头部viewpager
+https://github.com/jeasonlzy0216/HeaderViewPager
+
+SwipeSelector : 直接设置文字
+https://github.com/roughike/SwipeSelector

@@ -69,6 +69,7 @@ https://github.com/google/android-classyshark
 
 https://github.com/XiaoMi/open-falcon
 https://github.com/triaquae/triaquae
+https://github.com/jumpserver/jumpserver
 
 https://github.com/duoduo369/weixin_server
 https://github.com/yueyoum/django-siteuser
@@ -80,6 +81,14 @@ https://github.com/alibaba/LuaViewSDK
 https://github.com/buunguyen/octotree
 
 https://github.com/Pyiner/Blog
+
+https://github.com/soimort/you-get
+
+https://github.com/vnpy/vnpy
+
+https://github.com/beeman/loopback-angular-admin
+
+https://github.com/marmelab/ng-admin
 
 前端工具
 https://github.com/uikit/uikit

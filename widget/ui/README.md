@@ -98,11 +98,17 @@ https://github.com/wangjia55/AChartEngine
 ChatKeyboard : 聊天键盘实现 支持录音表情多媒体
 https://github.com/CPPAlien/ChatKeyboard
 
+XhsEmoticonsKeyboard : 表情键盘方案
+https://github.com/w446108264/XhsEmoticonsKeyboard
+
 CoordinateKeyboard : 仿探探界面点击表情键盘弹出动画
 https://github.com/taoliuh/CoordinateKeyboard
 
 MoveKeyboard : 嵌入页面的自定义键盘
 https://github.com/09xuanjian/MoveKeyboard
+
+JKeyboardPanelSwitch : 键盘面板冲突 布局闪动处理方案 (包含keyboradutil 有很多实用方法)
+https://github.com/Jacksgong/JKeyboardPanelSwitch
 
 SublimePicker : 日历 支持横屏与日期多选
 https://github.com/vikramkakkar/SublimePicker
@@ -161,6 +167,15 @@ https://github.com/pengjianbo/LoadingViewFinal
 jellyball : 刷新样式
 https://github.com/ImmortalZ/jellyball
 
+CatLoadingView
+https://github.com/Rogero0o/CatLoadingView
+
+SlackLoadingView
+https://github.com/JeasonWong/SlackLoadingView
+
+nougat-boot-animation
+https://github.com/ybq/nougat-boot-animation
+
 FlyRefresh : 纸飞机飞行动画
 https://github.com/race604/FlyRefresh
 
@@ -190,6 +205,9 @@ https://github.com/Arjun-sna/android-swipecards-view
 
 AndroidSwipeableCardStack : 手势卡片切换
 https://github.com/wenchaojiang/AndroidSwipeableCardStack
+
+android-swipecards-view : 手势卡片切换
+https://github.com/Arjun-sna/android-swipecards-view
 
 CardView : 手势卡片切换
 https://github.com/tomyZhou/CardView
@@ -223,3 +241,15 @@ https://github.com/soarcn/UndoBar
 
 Highlight : 指向性功能高亮 用于首次进入app功能性提示
 https://github.com/hongyangAndroid/Highlight
+
+WavyLineView : 可调节波长波浪线
+https://github.com/andyxialm/WavyLineView
+
+FlexLayout : 百分比设置控件大小
+https://github.com/mmin18/FlexLayout
+
+ZGDanmaku : OpenGLES 弹幕
+https://github.com/zhgeaits/ZGDanmaku
+
+BGABadgeView-Android : 徽章标签控件 支持QQ未读消息的拖拽效果
+https://github.com/bingoogolapple/BGABadgeView-Android

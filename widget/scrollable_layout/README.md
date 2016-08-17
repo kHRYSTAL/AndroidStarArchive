@@ -36,3 +36,6 @@ https://github.com/xiongwei-git/ScrollDownLayout
 
 TabbedCoordinatorLayout : 多tab下CoordinatorLayout样式的demo
 https://github.com/vitovalov/TabbedCoordinatorLayout
+
+Android-PullToNextLayout : 滑动到底部可切换布局 类似viewpager 支持弹性
+https://github.com/zzz40500/Android-PullToNextLayout

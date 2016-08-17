@@ -1,5 +1,6 @@
 https://github.com/JackyAndroid/AndroidInterview-Q-A
 https://github.com/Mr-YangCheng/ForAndroidInterview
+https://github.com/taizilongxu/interview_python
 
 https://github.com/dokelung/Python-QA
 
@@ -14,6 +15,8 @@ https://github.com/jondot/awesome-react-native
 https://github.com/WeMobileDev/article
 
 https://github.com/XXApple/AndroidLibs
+
+https://github.com/xxv/android-lifecycle
 
 https://github.com/captain-miao/AndroidAgeraTutorial
 
@@ -38,6 +41,8 @@ https://github.com/qianxueseng-com/js-projects
 
 https://github.com/phodal/designiot
 
+https://github.com/eastlakeside/interpy-zh
+
 冷启动 通过9patch使应用启动不那么突兀
 https://github.com/DreaminginCodeZH/MaterialColdStart
 
@@ -57,6 +62,10 @@ https://github.com/jobbole/awesome-python-cn
 https://github.com/easychen/howto-make-more-money
 
 https://github.com/sfsheng0322/In-depthStudy
+
+https://github.com/reactnativecn/react-native-docs-cn
+
+https://github.com/Yaoshicn/awesome-music-for-programming
 
 android-discuss : 问题交流
 

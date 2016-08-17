@@ -16,6 +16,9 @@ https://github.com/kymjs/KJFrameForAndroid
 AndroidRapidLibrary : ui 网络 框架
 https://github.com/lidong1665/AndroidRapidLibrary
 
+onyx : 机器学习/深度学习框架 能够通过图片或视频流获取关键字
+https://github.com/hanuor/onyx
+
 Conductor : 一套视图框架
 https://github.com/bluelinelabs/Conductor
 
@@ -157,3 +160,24 @@ https://github.com/square/retrofit
 
 Android-Next : 一整套框架
 https://github.com/mcxiaoke/Android-Next
+
+Android-FilePicker : 图片/文件浏览工具 依赖 [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) 选中
+https://github.com/DroidNinja/Android-FilePicker
+
+RxSensor : rxjava封装的传感器
+https://github.com/wandup/RxSensor
+
+RxAndroidAudio : rx版本音频库
+https://github.com/Piasy/RxAndroidAudio
+
+PreLollipopTransition : 共享元素与扩散效果低版本兼容庫
+https://github.com/takahirom/PreLollipopTransition
+
+StatusBarUtil : 4.4以上实现沉浸式状态栏工具
+https://github.com/laobie/StatusBarUtil
+
+SystemBarTint : 状态栏着色器
+https://github.com/jgilfelt/SystemBarTint
+
+tesela : 以线程池和注解实现 MVP模式
+https://github.com/raycoarana/tesela

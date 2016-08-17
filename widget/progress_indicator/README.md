@@ -51,3 +51,21 @@ https://github.com/panwrona/DownloadProgressBar
 
 MaskProgressView : 适用于音乐进度 可设置专辑上走过进度的颜色
 https://github.com/iammert/MaskProgressView
+
+SlackLoadingView
+https://github.com/JeasonWong/SlackLoadingView
+
+nougat-boot-animation
+https://github.com/ybq/nougat-boot-animation
+
+CatLoadingView
+https://github.com/Rogero0o/CatLoadingView
+
+Android-SpinKit : 一套加载动画
+https://github.com/ybq/Android-SpinKit
+
+ArcProgressStackView : 多环进度条 支持不同速率动画
+https://github.com/DevLight-Mobile-Agency/ArcProgressStackView
+
+RoadRunner
+https://github.com/glomadrian/RoadRunner

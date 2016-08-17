@@ -42,3 +42,15 @@ https://github.com/luckyandyzhang/CleverRecyclerView
 
 DragExpandGrid : 网格布局,支持拖拽展开排序
 https://github.com/wedcel/DragExpandGrid
+
+StickyGridHeaders : stickyheader吸附悬停 header下为网格布局
+https://github.com/TonicArtos/StickyGridHeaders
+
+SectionedExpandableGridRecyclerView : 抽屉样式列表 打开为网格布局
+https://github.com/bpncool/SectionedExpandableGridRecyclerView
+
+ListViewAnimations : listview各种手势效果
+https://github.com/nhaarman/ListViewAnimations
+
+ParallaxListView : 下拉头部视察效果
+https://github.com/Gnod/ParallaxListView
