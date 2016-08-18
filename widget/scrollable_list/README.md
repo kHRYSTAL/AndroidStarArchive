@@ -57,3 +57,15 @@ https://github.com/Gnod/ParallaxListView
 
 IndexRecyclerView : 联系人列表
 https://github.com/jiang111/IndexRecyclerView
+
+recyclerview-playground : 自定义ItemDecoration和layoutmanager
+https://github.com/devunwired/recyclerview-playground
+
+NestedTimeLineRecyclerView : 包含时间线 节点的列表
+https://github.com/ishratkhan/NestedTimeLineRecyclerView
+
+CityPicker : 城市选择列表
+https://github.com/zaaach/CityPicker
+
+greedo-layout-for-android : 实现了仿格瓦拉相册的不规则行高
+https://github.com/500px/greedo-layout-for-android

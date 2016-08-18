@@ -22,5 +22,7 @@ https://github.com/iReaderAndroid/ZeusPlugin
 
 https://github.com/dodola/HotFix
 
+https://github.com/wequick/Small
+
 TurboDex : 使用插件化开发后 快速加载dex工具
 https://github.com/asLody/TurboDex

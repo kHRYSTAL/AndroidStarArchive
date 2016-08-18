@@ -18,3 +18,6 @@ https://github.com/PoplarTang/FancyListIndexer
 
 SnailBar
 https://github.com/android-cjj/SnailBar
+
+CityPicker : 城市选择列表
+https://github.com/zaaach/CityPicker

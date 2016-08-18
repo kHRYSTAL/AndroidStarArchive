@@ -95,6 +95,9 @@ https://github.com/AndroidJiang/StockChart
 AChartEngine : 多类型图表实现
 https://github.com/wangjia55/AChartEngine
 
+MPAndroidChart : 多类型图表
+https://github.com/PhilJay/MPAndroidChart
+
 ChatKeyboard : 聊天键盘实现 支持录音表情多媒体
 https://github.com/CPPAlien/ChatKeyboard
 
@@ -134,6 +137,9 @@ https://github.com/saiwu-bigkoo/Android-PickerView
 androidWheelView : 仿iOS滚轮控件 有视差阴影
 https://github.com/weidongjian/androidWheelView
 
+MiClockView : 小米时钟
+https://github.com/AvatarQing/MiClockView
+
 AndroidPdfViewer
 https://github.com/barteksc/AndroidPdfViewer
 
@@ -142,6 +148,9 @@ https://github.com/voghDev/PdfViewPager
 
 CreditCardView
 https://github.com/cooltechworks/CreditCardView
+
+CreditCardView
+https://github.com/vinaygaba/CreditCardView
 
 MapView : 室内地图
 https://github.com/onlylemi/MapView
@@ -164,8 +173,14 @@ https://github.com/JakeWharton/DrawerBehavior
 LoadingViewFinal : 下拉刷新 加载更多组件库
 https://github.com/pengjianbo/LoadingViewFinal
 
+FunGameRefresh
+https://github.com/Hitomis/FunGameRefresh
+
 jellyball : 刷新样式
 https://github.com/ImmortalZ/jellyball
+
+BreakOutToRefresh
+https://github.com/dasdom/BreakOutToRefresh
 
 SpringHeader
 https://github.com/loopeer/SpringHeader
@@ -271,3 +286,15 @@ https://github.com/newtonker/JigsawDemo
 
 android-slidingactivity : 支持纵向拖拽的activity
 https://github.com/klinker41/android-slidingactivity
+
+pull-back-layout : 下拉关闭activity 配合共享元素更佳
+https://github.com/oxoooo/pull-back-layout
+
+Slidr : 侧滑关闭activity
+https://github.com/r0adkll/Slidr
+
+SearchView
+https://github.com/liangpengfei/SearchView
+
+AndroidSweetBehavior : 通过behavior实现instagram和bottomsheet效果
+https://github.com/zzz40500/AndroidSweetBehavior

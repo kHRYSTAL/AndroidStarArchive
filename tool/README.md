@@ -1,5 +1,7 @@
 ### AndroidStudio 插件
 
+https://github.com/maoruibin/AwesomeAndroidStudioPlugin
+
 wifi调试插件
 https://github.com/pedrovgs/AndroidWiFiADB
 
@@ -20,6 +22,9 @@ https://github.com/drakeet/LayoutFormatter
 
 
 https://github.com/nhachicha/android-native-dependencies
+
+ikusth : 线程依赖图形生成器
+https://github.com/tuenti/ikusth
 
 ### Other
 https://github.com/unbug/codelf
@@ -106,3 +111,8 @@ https://github.com/google/agera
 
 ILoveBaidu : 卸载百度系应用
 https://github.com/liaohuqiu/android-ILoveBaidu
+
+lantern
+https://github.com/getlantern/lantern
+
+https://github.com/yangyangwithgnu/use_vim_as_ide

@@ -15,3 +15,6 @@ https://github.com/linsea/UniversalVideoView
 
 easy-video-player
 https://github.com/afollestad/easy-video-player
+
+JieCaoVideoPlayer
+https://github.com/lipangit/JieCaoVideoPlayer

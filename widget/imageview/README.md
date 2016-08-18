@@ -48,3 +48,9 @@ https://github.com/xufan/MultipleImageView
 
 ImageBrowse : 图像共享元素打开效果 支持手势缩放与切换图片
 https://github.com/brucetoo/ImageBrowse
+
+BlurImageView : 高斯模糊
+https://github.com/wingjay/BlurImageView
+
+NineGridImageView
+https://github.com/laobie/NineGridImageView

@@ -69,3 +69,9 @@ https://github.com/DevLight-Mobile-Agency/ArcProgressStackView
 
 RoadRunner
 https://github.com/glomadrian/RoadRunner
+
+FunGameRefresh
+https://github.com/Hitomis/FunGameRefresh
+
+BreakOutToRefresh
+https://github.com/dasdom/BreakOutToRefresh

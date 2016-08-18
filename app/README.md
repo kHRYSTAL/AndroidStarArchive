@@ -133,3 +133,33 @@ https://github.com/jiang111/RxJavaApp
 
 ThirdPartyLoginDemo : shardsdk第三方登录demo
 https://github.com/MobClub/ThirdPartyLoginDemo
+
+FBreader : 仿iReader阅读器
+https://github.com/AlixMing/FBreader
+
+SimpleReader : rss阅读器
+https://github.com/matrixcloud/SimpleReader
+
+Material-Movies
+https://github.com/saulmm/Material-Movies
+
+Timber : 音乐播放器
+https://github.com/naman14/Timber
+
+TranslateApp : 咕咚翻译
+https://github.com/maoruibin/TranslateApp
+
+StepCounter : 计步器
+https://github.com/zhouguangfu09/StepCounter
+
+OuNews : 新闻阅读
+https://github.com/oubowu/OuNews
+
+JNote : 便签
+https://github.com/Jhuster/JNote
+
+Douya : 豆瓣客户端
+https://github.com/DreaminginCodeZH/Douya
+
+AndroidReview : 面试复习
+https://github.com/envyfan/AndroidReview

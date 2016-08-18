@@ -18,3 +18,9 @@ https://github.com/kakajika/SwipeAwayDialog
 
 FlycoDialog_Master
 https://github.com/H07000223/FlycoDialog_Master
+
+PeekAndPop
+https://github.com/shalskar/PeekAndPop
+
+NewQuickAction
+https://github.com/haiwen/NewQuickAction

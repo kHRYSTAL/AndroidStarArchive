@@ -184,3 +184,21 @@ https://github.com/raycoarana/tesela
 
 MarsDaemon : 进程保活
 https://github.com/Marswin/MarsDaemon
+
+whorlwind : 指纹api封装
+https://github.com/square/whorlwind
+
+safe-java-js-webview-bridge
+https://github.com/pedant/safe-java-js-webview-bridge
+
+BTAndroidWebViewSelection : 在webview中实现文字选中效果
+https://github.com/btate/BTAndroidWebViewSelection
+
+RxLifecycle
+https://github.com/trello/RxLifecycle
+
+android-UCToast : 无需权限在外部弹出悬浮窗
+https://github.com/liaohuqiu/android-UCToast
+
+Android-Universal-Image-Loader
+https://github.com/nostra13/Android-Universal-Image-Loader

@@ -33,3 +33,6 @@ https://github.com/UFreedom/YummyTextSwitcher
 
 advanced-textview : 支持动画 阴影 渐变色等
 https://github.com/chiuki/advanced-textview
+
+AlignTextView : 文字对齐
+https://github.com/androiddevelop/AlignTextView

@@ -27,3 +27,9 @@ https://github.com/roughike/SwipeSelector
 
 ExpandablePager 可实现底部栏展开样式
 https://github.com/Telenav/ExpandablePager
+
+WoWoViewPager
+https://github.com/Nightonke/WoWoViewPager
+
+ScaleYViewPager : z轴变换
+https://github.com/ChenSiLiang/ScaleYViewPager

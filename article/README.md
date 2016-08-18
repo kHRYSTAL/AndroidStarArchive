@@ -22,6 +22,8 @@ https://github.com/captain-miao/AndroidAgeraTutorial
 
 https://github.com/RiweiChen/DeepFace
 
+https://github.com/tiann/understand-plugin-framework
+
 python scrapy
 https://github.com/marchtea/scrapy_doc_chs
 https://github.com/xchaoinfo/fuck-login

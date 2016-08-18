@@ -10,6 +10,9 @@ https://github.com/aryarohit07/PicassoFaceDetectionTransformation
 MagicCamera : 滤镜 拍照 录像 图片修改
 https://github.com/wuhaoyu1990/MagicCamera
 
+wechat-gallery : 相册 拍照 截图
+https://github.com/yangxlei/wechat-gallery
+
 BGAPhotoPicker : 相册 九宫格图片拖拽 选择图片等
 https://github.com/bingoogolapple/BGAPhotoPicker-Android
 

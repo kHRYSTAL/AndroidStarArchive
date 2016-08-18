@@ -37,3 +37,6 @@ https://github.com/florent37/ViewAnimator
 
 EasingInterpolator : 28种动画插值器
 https://github.com/MasayukiSuda/EasingInterpolator
+
+SearchView
+https://github.com/liangpengfei/SearchView
