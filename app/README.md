@@ -124,3 +124,12 @@ https://github.com/SkillCollege/SimplifyReader
 
 CircleDemo : 朋友圈实现 支持短视频拍摄
 https://github.com/Naoki2015/CircleDemo
+
+PoiShuhui-Kotlin : 漫画app
+https://github.com/wuapnjie/PoiShuhui-Kotlin
+
+RxJavaApp
+https://github.com/jiang111/RxJavaApp
+
+ThirdPartyLoginDemo : shardsdk第三方登录demo
+https://github.com/MobClub/ThirdPartyLoginDemo

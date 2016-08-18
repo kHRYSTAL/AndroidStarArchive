@@ -46,6 +46,9 @@ https://github.com/eastlakeside/interpy-zh
 冷启动 通过9patch使应用启动不那么突兀
 https://github.com/DreaminginCodeZH/MaterialColdStart
 
+BottomNavigation : 底部导航栏设计规范
+https://github.com/LittleFriendsGroup/BottomNavigation
+
 https://github.com/xitu/gold-miner
 
 https://github.com/CaMnter/AndroidLife
@@ -71,6 +74,7 @@ android-discuss : 问题交流
 
 https://github.com/android-cn/android-discuss
 
+https://github.com/qiwsir/StarterLearningPython
 
 Reactive Programming
 https://github.com/benjycui/introrx-chinese-edition

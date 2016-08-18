@@ -54,3 +54,6 @@ https://github.com/nhaarman/ListViewAnimations
 
 ParallaxListView : 下拉头部视察效果
 https://github.com/Gnod/ParallaxListView
+
+IndexRecyclerView : 联系人列表
+https://github.com/jiang111/IndexRecyclerView

@@ -24,3 +24,6 @@ https://github.com/jeasonlzy0216/HeaderViewPager
 
 SwipeSelector : 直接设置文字
 https://github.com/roughike/SwipeSelector
+
+ExpandablePager 可实现底部栏展开样式
+https://github.com/Telenav/ExpandablePager

@@ -15,3 +15,6 @@ https://github.com/Meetic/MaryPopup
 
 SwipeAwayDialog : 手势滑动关闭
 https://github.com/kakajika/SwipeAwayDialog
+
+FlycoDialog_Master
+https://github.com/H07000223/FlycoDialog_Master

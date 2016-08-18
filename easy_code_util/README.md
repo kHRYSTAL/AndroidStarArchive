@@ -181,3 +181,6 @@ https://github.com/jgilfelt/SystemBarTint
 
 tesela : 以线程池和注解实现 MVP模式
 https://github.com/raycoarana/tesela
+
+MarsDaemon : 进程保活
+https://github.com/Marswin/MarsDaemon

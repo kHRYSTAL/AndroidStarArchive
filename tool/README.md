@@ -18,6 +18,9 @@ https://github.com/roana0229/android-xml-sorter
 LayoutFormatter : xml格式化工具
 https://github.com/drakeet/LayoutFormatter
 
+
+https://github.com/nhachicha/android-native-dependencies
+
 ### Other
 https://github.com/unbug/codelf
 

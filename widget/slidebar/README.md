@@ -15,3 +15,6 @@ https://github.com/CaMnter/EasyRecyclerViewSidebar
 
 FancyListIndexer : 曲线变形样式
 https://github.com/PoplarTang/FancyListIndexer
+
+SnailBar
+https://github.com/android-cjj/SnailBar

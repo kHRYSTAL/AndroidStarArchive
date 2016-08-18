@@ -6,3 +6,6 @@ https://github.com/YeDaxia/SQLiteUtils
 
 LitePal : ORM型数据库
 https://github.com/LitePalFramework/LitePal
+
+ActiveAndroid
+https://github.com/pardom/ActiveAndroid

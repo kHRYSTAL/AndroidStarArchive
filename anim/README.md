@@ -34,3 +34,6 @@ https://github.com/sephiroth74/ViewRevealAnimator
 
 ViewAnimator : view的动画库封装
 https://github.com/florent37/ViewAnimator
+
+EasingInterpolator : 28种动画插值器
+https://github.com/MasayukiSuda/EasingInterpolator

@@ -30,3 +30,6 @@ https://github.com/hrules6872/TrendTextView
 
 YummyTextSwitcher : 文字转盘动画
 https://github.com/UFreedom/YummyTextSwitcher
+
+advanced-textview : 支持动画 阴影 渐变色等
+https://github.com/chiuki/advanced-textview

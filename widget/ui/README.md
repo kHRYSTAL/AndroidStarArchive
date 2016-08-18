@@ -167,6 +167,9 @@ https://github.com/pengjianbo/LoadingViewFinal
 jellyball : 刷新样式
 https://github.com/ImmortalZ/jellyball
 
+SpringHeader
+https://github.com/loopeer/SpringHeader
+
 CatLoadingView
 https://github.com/Rogero0o/CatLoadingView
 
@@ -251,5 +254,20 @@ https://github.com/mmin18/FlexLayout
 ZGDanmaku : OpenGLES 弹幕
 https://github.com/zhgeaits/ZGDanmaku
 
+OpenDanmaku : 弹幕
+https://github.com/linsea/OpenDanmaku
+
 BGABadgeView-Android : 徽章标签控件 支持QQ未读消息的拖拽效果
 https://github.com/bingoogolapple/BGABadgeView-Android
+
+ahbottomnavigation : 底部导航
+https://github.com/aurelhubert/ahbottomnavigation
+
+BottomBar : 底部导航
+https://github.com/roughike/BottomBar
+
+JigsawDemo : 拼图
+https://github.com/newtonker/JigsawDemo
+
+android-slidingactivity : 支持纵向拖拽的activity
+https://github.com/klinker41/android-slidingactivity
