@@ -33,3 +33,12 @@ https://github.com/Nightonke/WoWoViewPager
 
 ScaleYViewPager : z轴变换
 https://github.com/ChenSiLiang/ScaleYViewPager
+
+SimpleInfiniteCarousel : 无限滚动
+https://github.com/mrleolink/SimpleInfiniteCarousel
+
+android-view-pager-cards : viewpager翻滚
+https://github.com/jamesmccann/android-view-pager-cards
+
+imagecycleview : 图片轮播 支持下载图片
+https://github.com/daikainan/imagecycleview

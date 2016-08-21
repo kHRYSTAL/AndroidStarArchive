@@ -9,3 +9,6 @@ https://github.com/GerritHoekstra/CompactCalendarViewToolbar
 
 multiline-collapsingtoolbar : 多行collaspingtoolbar效果
 https://github.com/opacapp/multiline-collapsingtoolbar
+
+morphy-toolbar : 带头像的toolbar缩放效果
+https://github.com/badoualy/morphy-toolbar

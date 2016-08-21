@@ -40,5 +40,17 @@ https://github.com/vitovalov/TabbedCoordinatorLayout
 Android-PullToNextLayout : 滑动到底部可切换布局 类似viewpager 支持弹性
 https://github.com/zzz40500/Android-PullToNextLayout
 
+SlidingUpPanel : 上拉菜单demo
+https://github.com/fanyu2013/rotate-SlidingUpPanel
+
 DraggablePanel : 可当做抽屉拖拽的控件
 https://github.com/pedrovgs/DraggablePanel
+
+material-scrolling : collaspingtoolbar效果
+https://github.com/satorufujiwara/material-scrolling
+
+DeckView : 仿 5.0 后台任务窗口
+https://github.com/vikramkakkar/DeckView
+
+Android-ObservableScrollView : 监听scrollview实现collaspingtoolbar效果
+https://github.com/ksoichiro/Android-ObservableScrollView

@@ -161,5 +161,23 @@ https://github.com/Jhuster/JNote
 Douya : 豆瓣客户端
 https://github.com/DreaminginCodeZH/Douya
 
-AndroidReview : 面试复习
+AndroidReview : 面试复习客户端
 https://github.com/envyfan/AndroidReview
+
+android-demo : 包含图片缓存 http缓存 下拉刷新列表 下载管理 静默安装等demo
+https://github.com/Trinea/android-demo
+
+UiSoftware : 基于蓝牙2.0与单片机连接通信
+https://github.com/luxuia/UiSoftware
+
+JianDan : 煎蛋客户端
+https://github.com/ZhaoKaiQiang/JianDan
+
+AisenWeiBo : 微博客户端
+https://github.com/wangdan/AisenWeiBo
+
+SeeWeather : 天气项目
+https://github.com/xcc3641/SeeWeather
+
+kickmaterial : 众筹项目app
+https://github.com/byoutline/kickmaterial

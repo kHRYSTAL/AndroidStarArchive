@@ -119,6 +119,9 @@ https://github.com/vikramkakkar/SublimePicker
 CompactCalendarView : 日历控件
 https://github.com/SundeepK/CompactCalendarView
 
+FlexibleCalendar : 日历控件
+https://github.com/p-v/FlexibleCalendar
+
 Caldroid : 日历控件
 https://github.com/roomorama/Caldroid
 
@@ -227,8 +230,14 @@ https://github.com/wenchaojiang/AndroidSwipeableCardStack
 android-swipecards-view : 手势卡片切换
 https://github.com/Arjun-sna/android-swipecards-view
 
+SlidingCard
+https://github.com/mxn21/SlidingCard
+
 CardView : 手势卡片切换
 https://github.com/tomyZhou/CardView
+
+SwipeCardView : 手势卡片切换
+https://github.com/xiepeijie/SwipeCardView
 
 Shuffle : 卡片切换 支持撤销操作与无限循环
 https://github.com/Meetic/Shuffle
@@ -293,8 +302,23 @@ https://github.com/oxoooo/pull-back-layout
 Slidr : 侧滑关闭activity
 https://github.com/r0adkll/Slidr
 
+KugouLayout : 仿酷狗播放器滑动返回
+https://github.com/zhaozhentao/KugouLayout
+
 SearchView
 https://github.com/liangpengfei/SearchView
 
 AndroidSweetBehavior : 通过behavior实现instagram和bottomsheet效果
 https://github.com/zzz40500/AndroidSweetBehavior
+
+BottomSheets : bottomsheet示例
+https://github.com/android-cjj/BottomSheets
+
+ExpandTable : 58同城点击展开表格效果
+https://github.com/haibuzou/ExpandTable
+
+ExpandableLayout : 展开关闭效果 支持在列表中使用
+https://github.com/AAkira/ExpandableLayout
+
+ILOVEYOU
+https://github.com/androidmalin/ILOVEYOU

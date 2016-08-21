@@ -75,3 +75,9 @@ https://github.com/Hitomis/FunGameRefresh
 
 BreakOutToRefresh
 https://github.com/dasdom/BreakOutToRefresh
+
+Dash-Spinner
+https://github.com/melvinjlobo/Dash-Spinner
+
+TimelineView : 时间线
+https://github.com/alorma/TimelineView

@@ -16,6 +16,9 @@ https://github.com/yangxlei/wechat-gallery
 BGAPhotoPicker : 相册 九宫格图片拖拽 选择图片等
 https://github.com/bingoogolapple/BGAPhotoPicker-Android
 
+cropper : 截图
+https://github.com/edmodo/cropper
+
 FishBun : 相册
 https://github.com/sangcomz/FishBun
 
@@ -36,3 +39,6 @@ https://github.com/siwangqishiq/ImageEditor-Android
 
 android-gpuimage : 基于OPENGL的滤镜处理
 https://github.com/CyberAgent/android-gpuimage
+
+screengrab : 局部截图
+https://github.com/fastlane-old/screengrab

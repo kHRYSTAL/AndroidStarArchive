@@ -9,3 +9,9 @@ https://github.com/LitePalFramework/LitePal
 
 ActiveAndroid
 https://github.com/pardom/ActiveAndroid
+
+sqlbrite
+https://github.com/square/sqlbrite
+
+requery
+https://github.com/requery/requery

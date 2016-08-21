@@ -69,3 +69,12 @@ https://github.com/zaaach/CityPicker
 
 greedo-layout-for-android : 实现了仿格瓦拉相册的不规则行高
 https://github.com/500px/greedo-layout-for-android
+
+recyclerview-binder : 多itemtype简化
+https://github.com/satorufujiwara/recyclerview-binder
+
+android-advancedrecyclerview : 包含多种手势操作和展开效果
+https://github.com/h6ah4i/android-advancedrecyclerview
+
+Toro : 列表中自动播放视频
+https://github.com/eneim/Toro

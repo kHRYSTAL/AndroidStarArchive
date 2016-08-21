@@ -24,6 +24,11 @@ https://github.com/RiweiChen/DeepFace
 
 https://github.com/tiann/understand-plugin-framework
 
+AndroidDifficultAnalysis : 难点解析
+https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis
+
+https://github.com/simple-android-framework/android_design_patterns_analysis
+
 python scrapy
 https://github.com/marchtea/scrapy_doc_chs
 https://github.com/xchaoinfo/fuck-login

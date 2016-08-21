@@ -40,3 +40,6 @@ https://github.com/MasayukiSuda/EasingInterpolator
 
 SearchView
 https://github.com/liangpengfei/SearchView
+
+Dragger : Activity 拖拽和动画
+https://github.com/ppamorim/Dragger

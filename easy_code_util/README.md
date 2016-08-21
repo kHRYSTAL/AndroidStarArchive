@@ -77,6 +77,12 @@ https://github.com/tbruyelle/RxPermissions
 rx-android-permissions : rxjava解决运行时权限
 https://github.com/beworker/rx-android-permissions
 
+PermissionGen
+https://github.com/lovedise/PermissionGen
+
+MPermissions
+https://github.com/hongyangAndroid/MPermissions
+
 TedPermission : 运行时权限工具
 https://github.com/ParkSangGwon/TedPermission
 
@@ -202,3 +208,27 @@ https://github.com/liaohuqiu/android-UCToast
 
 Android-Universal-Image-Loader
 https://github.com/nostra13/Android-Universal-Image-Loader
+
+Sofa : 在stackoverflow上搜索异常
+https://github.com/Malinskiy/Sofa
+
+fragmentargs
+https://github.com/sockeqwe/fragmentargs
+
+Lynx : 显示自定义view的日志库
+https://github.com/pedrovgs/Lynx
+
+jlog
+https://github.com/JiongBull/jlog
+
+LoganSquare : 解析json速度最快
+https://github.com/bluelinelabs/LoganSquare
+
+Android-Iconics : 在app中使用一个图标实现多颜色多尺寸适配
+https://github.com/mikepenz/Android-Iconics
+
+AppUpdater : Google Play, GitHub, Amazon, F-Droid 或自定义服务器更新应用
+https://github.com/javiersantos/AppUpdater
+
+App-Architecture
+https://github.com/frodoking/App-Architecture

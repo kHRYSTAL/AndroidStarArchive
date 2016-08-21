@@ -15,3 +15,12 @@ https://github.com/wujingchao/MultiCardMenu
 
 BoomMenu
 https://github.com/Nightonke/BoomMenu
+
+coolMenu
+https://github.com/DxTT/coolMenu
+
+SwipeMenu
+https://github.com/TUBB/SwipeMenu
+
+CircularMenu
+https://github.com/sungerk/CircularMenu

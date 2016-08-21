@@ -20,6 +20,9 @@ https://github.com/roana0229/android-xml-sorter
 LayoutFormatter : xml格式化工具
 https://github.com/drakeet/LayoutFormatter
 
+gradle-packer-plugin : 多渠道打包工具
+https://github.com/mcxiaoke/gradle-packer-plugin
+
 
 https://github.com/nhachicha/android-native-dependencies
 
@@ -112,7 +115,13 @@ https://github.com/google/agera
 ILoveBaidu : 卸载百度系应用
 https://github.com/liaohuqiu/android-ILoveBaidu
 
+RoboGif : 录制gif
+https://github.com/izacus/RoboGif
+
 lantern
 https://github.com/getlantern/lantern
+
+battery-historian : 电量分析工具
+https://github.com/google/battery-historian
 
 https://github.com/yangyangwithgnu/use_vim_as_ide
