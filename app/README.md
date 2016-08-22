@@ -181,3 +181,15 @@ https://github.com/xcc3641/SeeWeather
 
 kickmaterial : 众筹项目app
 https://github.com/byoutline/kickmaterial
+
+Notes : 小米便签
+https://github.com/MiCode/Notes
+
+react-native-gank
+https://github.com/Bob1993/react-native-gank
+
+SmartDrawing : 手写板
+https://github.com/SmartDengg/SmartDrawing
+
+hellomap3d-android : 3d地图示例
+https://github.com/nutiteq/hellomap3d-android

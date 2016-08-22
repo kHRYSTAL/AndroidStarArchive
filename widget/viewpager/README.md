@@ -42,3 +42,6 @@ https://github.com/jamesmccann/android-view-pager-cards
 
 imagecycleview : 图片轮播 支持下载图片
 https://github.com/daikainan/imagecycleview
+
+MultiViewPager : 同屏展示多个viewpager child
+https://github.com/Pixplicity/MultiViewPager

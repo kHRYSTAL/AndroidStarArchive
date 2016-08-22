@@ -5,3 +5,9 @@ https://github.com/wuhaoyu1990/MagicCamera
 
 LandscapeVideoCamera : 录像
 https://github.com/JeroenMols/LandscapeVideoCamera
+
+CKCamera : 照相 截图
+https://github.com/ChrisKyle/CKCamera
+
+SquareCamera
+https://github.com/boxme/SquareCamera

@@ -5,6 +5,9 @@ https://github.com/maoruibin/AwesomeAndroidStudioPlugin
 wifi调试插件
 https://github.com/pedrovgs/AndroidWiFiADB
 
+GsonFormat : 通过json字符串生成符合gson格式的实体类
+https://github.com/zzz40500/GsonFormat
+
 butterknife替换插件
 https://github.com/u3shadow/RemoveButterKnife
 
@@ -124,4 +127,8 @@ https://github.com/getlantern/lantern
 battery-historian : 电量分析工具
 https://github.com/google/battery-historian
 
+https://github.com/ma6174/vim
+
 https://github.com/yangyangwithgnu/use_vim_as_ide
+
+https://github.com/JoelBesada/activate-power-mode

@@ -182,6 +182,9 @@ https://github.com/Hitomis/FunGameRefresh
 jellyball : 刷新样式
 https://github.com/ImmortalZ/jellyball
 
+android-Ultra-Pull-To-Refresh
+https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
+
 BreakOutToRefresh
 https://github.com/dasdom/BreakOutToRefresh
 
@@ -235,6 +238,9 @@ https://github.com/mxn21/SlidingCard
 
 CardView : 手势卡片切换
 https://github.com/tomyZhou/CardView
+
+sliding-deck
+https://github.com/txusballesteros/sliding-deck
 
 SwipeCardView : 手势卡片切换
 https://github.com/xiepeijie/SwipeCardView
@@ -322,3 +328,12 @@ https://github.com/AAkira/ExpandableLayout
 
 ILOVEYOU
 https://github.com/androidmalin/ILOVEYOU
+
+android-layout-samples
+https://github.com/lucasr/android-layout-samples
+
+ZDepthShadow : z轴阴影
+https://github.com/ShogoMizumoto/ZDepthShadow
+
+InboxLayout : 点击展开另一个布局的效果
+https://github.com/zhaozhentao/InboxLayout

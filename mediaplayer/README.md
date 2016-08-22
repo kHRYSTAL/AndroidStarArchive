@@ -18,3 +18,6 @@ https://github.com/afollestad/easy-video-player
 
 JieCaoVideoPlayer
 https://github.com/lipangit/JieCaoVideoPlayer
+
+VideoPlayerManager : 用于列表中播放视频
+https://github.com/danylovolokh/VideoPlayerManager

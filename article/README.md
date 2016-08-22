@@ -2,6 +2,10 @@ https://github.com/JackyAndroid/AndroidInterview-Q-A
 https://github.com/Mr-YangCheng/ForAndroidInterview
 https://github.com/taizilongxu/interview_python
 
+https://github.com/Juude/Awesome-Android-Architecture
+
+https://github.com/nuptboyzhb/AndroidPluginFramework
+
 https://github.com/dokelung/Python-QA
 
 https://github.com/yipianfengye/androidProject
@@ -77,6 +81,8 @@ https://github.com/reactnativecn/react-native-docs-cn
 
 https://github.com/Yaoshicn/awesome-music-for-programming
 
+https://github.com/Trinea/android-open-project
+
 android-discuss : 问题交流
 
 https://github.com/android-cn/android-discuss
@@ -97,3 +103,11 @@ https://github.com/androidmalin/RengwuxianRxjava
 
 used_books : 闲置二手书
 https://github.com/yangyangwithgnu/used_books
+
+https://github.com/freedombird9/how-to-read-source-code
+
+AndroidProcess : 判断应用处于前台后台的六种方法
+https://github.com/wenmingvs/AndroidProcess
+
+HelloLibrary
+https://github.com/icodeu/HelloLibrary

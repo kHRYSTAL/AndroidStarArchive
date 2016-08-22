@@ -42,3 +42,9 @@ https://github.com/CyberAgent/android-gpuimage
 
 screengrab : 局部截图
 https://github.com/fastlane-old/screengrab
+
+uCrop
+https://github.com/Yalantis/uCrop
+
+PhotoCompress
+https://github.com/fanyu2013/PhotoCompress

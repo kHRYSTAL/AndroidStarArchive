@@ -21,3 +21,6 @@ https://github.com/android-cjj/SnailBar
 
 CityPicker : 城市选择列表
 https://github.com/zaaach/CityPicker
+
+GBSlideBar : 仿uber滴滴滑块
+https://github.com/edanel/GBSlideBar

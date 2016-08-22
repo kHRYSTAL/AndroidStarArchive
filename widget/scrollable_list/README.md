@@ -78,3 +78,21 @@ https://github.com/h6ah4i/android-advancedrecyclerview
 
 Toro : 列表中自动播放视频
 https://github.com/eneim/Toro
+
+HeaderAndFooterRecyclerView : 添加头部和底部 可用于自动加载
+https://github.com/cundong/HeaderAndFooterRecyclerView
+
+ListView3d : 3d listview
+https://github.com/renard314/ListView3d
+
+JingDongRefreshListView
+https://github.com/nugongshou110/JingDongRefreshListView
+
+android-GridViewWithHeaderAndFooter
+https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter
+
+MVCHelper
+https://github.com/LuckyJayce/MVCHelper
+
+AnimRefreshRecyclerView
+https://github.com/shichaohui/AnimRefreshRecyclerView

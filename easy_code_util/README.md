@@ -1,3 +1,6 @@
+NotifyUtil
+https://github.com/wenmingvs/NotifyUtil
+
 AndroidUtilCode : 一套工具类
 https://github.com/Blankj/AndroidUtilCode
 
@@ -232,3 +235,15 @@ https://github.com/javiersantos/AppUpdater
 
 App-Architecture
 https://github.com/frodoking/App-Architecture
+
+WatchActivity : 查看当前包名和Activity名称
+https://github.com/Qrilee/WatchActivity
+
+weakHandler : 内存优化使用 内部结构是静态的runnable和弱引用对象
+https://github.com/lianzhan/weakHandler
+
+cube-sdk
+https://github.com/liaohuqiu/cube-sdk
+
+XDroidRequest : 网络请求
+https://github.com/robinxdroid/XDroidRequest

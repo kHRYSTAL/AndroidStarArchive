@@ -24,3 +24,12 @@ https://github.com/shalskar/PeekAndPop
 
 NewQuickAction
 https://github.com/haiwen/NewQuickAction
+
+ColorDialog
+https://github.com/andyxialm/ColorDialog
+
+PopupWindowDialog : 使用PopupWindow 实现各种dialog
+https://github.com/chsmy/PopupWindowDialog
+
+Android-NewPopupMenu
+https://github.com/u1aryz/Android-NewPopupMenu
