@@ -52,3 +52,6 @@ https://github.com/frogermcs/LikeAnimation
 
 animate : 一套动画库
 https://github.com/hitherejoe/animate
+
+SignUpTransition : 登录界面动画
+https://github.com/JeasonWong/SignUpTransition

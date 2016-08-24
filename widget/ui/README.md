@@ -98,6 +98,9 @@ https://github.com/wangjia55/AChartEngine
 MPAndroidChart : 多类型图表
 https://github.com/PhilJay/MPAndroidChart
 
+AndroidCustomView : 股票 线性对比图
+https://github.com/AllenCoder/AndroidCustomView
+
 ChatKeyboard : 聊天键盘实现 支持录音表情多媒体
 https://github.com/CPPAlien/ChatKeyboard
 
@@ -112,6 +115,9 @@ https://github.com/09xuanjian/MoveKeyboard
 
 JKeyboardPanelSwitch : 键盘面板冲突 布局闪动处理方案 (包含keyboradutil 有很多实用方法)
 https://github.com/Jacksgong/JKeyboardPanelSwitch
+
+WeChatPswKeyboard : 微信支付密码键盘
+https://github.com/zuiwuyuan/WeChatPswKeyboard
 
 SublimePicker : 日历 支持横屏与日期多选
 https://github.com/vikramkakkar/SublimePicker
@@ -251,6 +257,9 @@ https://github.com/xiepeijie/SwipeCardView
 Shuffle : 卡片切换 支持撤销操作与无限循环
 https://github.com/Meetic/Shuffle
 
+FlipCards : 卡片翻滚 折叠效果
+https://github.com/zhangke3016/FlipCards
+
 CarouselLayoutManager : 卡片 gallery视差滑动效果
 https://github.com/Azoft/CarouselLayoutManager
 
@@ -358,3 +367,12 @@ https://github.com/renaudcerrato/ToggleDrawable
 
 GiftRainView : 礼物雨
 https://github.com/xujinyang/GiftRainView
+
+vrview
+https://github.com/google/vrview
+
+CompoundLayout : 包裹布局实现选中效果
+https://github.com/Jaouan/CompoundLayout
+
+SignUpTransition : 登录界面动画
+https://github.com/JeasonWong/SignUpTransition

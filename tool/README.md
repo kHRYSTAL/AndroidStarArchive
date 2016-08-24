@@ -26,6 +26,9 @@ https://github.com/drakeet/LayoutFormatter
 gradle-packer-plugin : 多渠道打包工具
 https://github.com/mcxiaoke/gradle-packer-plugin
 
+android-strings-search-plugin : 通过stringvalue 查找 key
+https://github.com/konifar/android-strings-search-plugin
+
 
 https://github.com/nhachicha/android-native-dependencies
 
@@ -34,6 +37,9 @@ https://github.com/tuenti/ikusth
 
 anko : 替换java语法实现android快速开发
 https://github.com/Kotlin/anko
+
+Android-Crack-Tool : 编译 反编译工具集成 （Mac）
+https://github.com/Jermic/Android-Crack-Tool
 
 ### Other
 https://github.com/unbug/codelf
@@ -83,6 +89,9 @@ https://github.com/yyuu/pyenv
 
 android-classyshark : 反编译工具
 https://github.com/google/android-classyshark
+
+AndroidMultiChannelBuildTool : 多渠道打包工具
+https://github.com/GavinCT/AndroidMultiChannelBuildTool
 
 https://github.com/XiaoMi/open-falcon
 https://github.com/triaquae/triaquae
@@ -156,3 +165,6 @@ https://github.com/solarlee/Awesome-Python-Toolbox
 https://github.com/phacility/phabricator
 
 https://github.com/alex-ko/innocent
+
+gvr-android-sdk : google vr sdk
+https://github.com/googlevr/gvr-android-sdk

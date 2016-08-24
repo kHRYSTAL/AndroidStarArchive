@@ -18,3 +18,6 @@ https://github.com/ta893115871/PagerSlidingTabStrip
 
 PagerSlidingTabStripPro
 https://github.com/kingideayou/PagerSlidingTabStripPro
+
+Space-Navigation-View : 底部导航
+https://github.com/armcha/Space-Navigation-View

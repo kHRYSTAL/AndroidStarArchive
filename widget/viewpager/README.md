@@ -51,3 +51,6 @@ https://github.com/race604/react-native-viewpager
 
 RealParallaxAndroid : 滑动视差效果
 https://github.com/mallethugo/RealParallaxAndroid
+
+InfiniteCycleViewPager : 支持gallery样式切换 支持多方向 可用于检票等
+https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager

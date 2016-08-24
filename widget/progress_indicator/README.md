@@ -1,3 +1,9 @@
+SmileyLoadingView
+https://github.com/andyxialm/SmileyLoadingView
+
+android_ProcessBar
+https://github.com/hzw1199/android_ProcessBar
+
 LikeSinaSportProgress : 仿微信进度条
 https://github.com/YangShaoXiong/LikeSinaSportProgress
 
@@ -81,3 +87,6 @@ https://github.com/melvinjlobo/Dash-Spinner
 
 TimelineView : 时间线
 https://github.com/alorma/TimelineView
+
+SpeedView
+https://github.com/anastr/SpeedView

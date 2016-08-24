@@ -39,3 +39,6 @@ https://github.com/androiddevelop/AlignTextView
 
 HTextView : 带动画与字体库
 https://github.com/hanks-zyh/HTextView
+
+JumpingBeans : 文字跳动
+https://github.com/frakbot/JumpingBeans

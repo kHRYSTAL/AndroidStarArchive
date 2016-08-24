@@ -21,3 +21,6 @@ https://github.com/riggaroo/MaterialIntroTutorial
 
 WoWoViewPager
 https://github.com/Nightonke/WoWoViewPager
+
+HighLightGuideView : 指示高亮
+https://github.com/jaydenxiao2016/HighLightGuideView
