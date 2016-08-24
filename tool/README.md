@@ -32,6 +32,9 @@ https://github.com/nhachicha/android-native-dependencies
 ikusth : 线程依赖图形生成器
 https://github.com/tuenti/ikusth
 
+anko : 替换java语法实现android快速开发
+https://github.com/Kotlin/anko
+
 ### Other
 https://github.com/unbug/codelf
 
@@ -104,6 +107,12 @@ https://github.com/beeman/loopback-angular-admin
 
 https://github.com/marmelab/ng-admin
 
+beecloud-android : 支付sdk
+https://github.com/beecloud/beecloud-android
+
+AndResGuard : 微信代码混淆
+https://github.com/shwenzhang/AndResGuard
+
 前端工具
 https://github.com/uikit/uikit
 
@@ -132,3 +141,18 @@ https://github.com/ma6174/vim
 https://github.com/yangyangwithgnu/use_vim_as_ide
 
 https://github.com/JoelBesada/activate-power-mode
+
+https://github.com/heloowird/collectWeiboData
+
+https://github.com/lurongkai/anti-baidu
+
+已停止使用
+https://github.com/0x5e/wechat-deleted-friends
+
+https://github.com/dracula/dracula-theme
+
+https://github.com/solarlee/Awesome-Python-Toolbox
+
+https://github.com/phacility/phabricator
+
+https://github.com/alex-ko/innocent

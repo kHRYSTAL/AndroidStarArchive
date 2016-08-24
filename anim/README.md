@@ -43,3 +43,12 @@ https://github.com/liangpengfei/SearchView
 
 Dragger : Activity 拖拽和动画
 https://github.com/ppamorim/Dragger
+
+randomlayout : 文字随机飞入飞出
+https://github.com/qiushi123/randomlayout
+
+LikeAnimation : 点赞动画
+https://github.com/frogermcs/LikeAnimation
+
+animate : 一套动画库
+https://github.com/hitherejoe/animate

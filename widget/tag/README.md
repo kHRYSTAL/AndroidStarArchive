@@ -6,3 +6,6 @@ https://github.com/kingideayou/TagCloudView
 
 android-drag-FlowLayout
 https://github.com/LightSun/android-drag-FlowLayout
+
+AndroidTagView
+https://github.com/whilu/AndroidTagView

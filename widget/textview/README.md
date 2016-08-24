@@ -36,3 +36,6 @@ https://github.com/chiuki/advanced-textview
 
 AlignTextView : 文字对齐
 https://github.com/androiddevelop/AlignTextView
+
+HTextView : 带动画与字体库
+https://github.com/hanks-zyh/HTextView

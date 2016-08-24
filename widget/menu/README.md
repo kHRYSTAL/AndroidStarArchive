@@ -24,3 +24,12 @@ https://github.com/TUBB/SwipeMenu
 
 CircularMenu
 https://github.com/sungerk/CircularMenu
+
+Side-Menu.Android
+https://github.com/Yalantis/Side-Menu.Android
+
+DropDownMenu
+https://github.com/dongjunkun/DropDownMenu
+
+MaterialDrawer
+https://github.com/mikepenz/MaterialDrawer

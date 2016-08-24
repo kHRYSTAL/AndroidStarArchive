@@ -15,3 +15,9 @@ https://github.com/rongcloud/demo-app-android-v2
 
 bmob-android-im-sdk bmob旧版即时通讯服务
 https://github.com/bmob/bmob-android-im-sdk
+
+sdkexamples-android 环信sdk demo
+https://github.com/easemob/sdkexamples-android
+
+Asmack-Demo : smack openfire demo
+https://github.com/TracyZhangLei/Asmack-Demo

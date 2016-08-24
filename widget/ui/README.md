@@ -233,6 +233,9 @@ https://github.com/wenchaojiang/AndroidSwipeableCardStack
 android-swipecards-view : 手势卡片切换
 https://github.com/Arjun-sna/android-swipecards-view
 
+CardSlidePanel : 手势卡片切换
+https://github.com/taoliuh/CardSlidePanel
+
 SlidingCard
 https://github.com/mxn21/SlidingCard
 
@@ -337,3 +340,21 @@ https://github.com/ShogoMizumoto/ZDepthShadow
 
 InboxLayout : 点击展开另一个布局的效果
 https://github.com/zhaozhentao/InboxLayout
+
+SlideActivity
+https://github.com/chenjishi/SlideActivity
+
+AndroidMosaicLayout : 多种布局样式分块展示
+https://github.com/adhamenaya/AndroidMosaicLayout
+
+SpiderWebScoreView : 蜘蛛网评分 能力值
+https://github.com/xiaopansky/SpiderWebScoreView
+
+MathView : 通过webview显示数学公式
+https://github.com/kexanie/MathView
+
+ToggleDrawable
+https://github.com/renaudcerrato/ToggleDrawable
+
+GiftRainView : 礼物雨
+https://github.com/xujinyang/GiftRainView

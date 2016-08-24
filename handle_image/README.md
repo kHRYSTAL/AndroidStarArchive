@@ -48,3 +48,15 @@ https://github.com/Yalantis/uCrop
 
 PhotoCompress
 https://github.com/fanyu2013/PhotoCompress
+
+ImageBlurring : 高斯模糊
+https://github.com/qiujuer/ImageBlurring
+
+GalleryFinal : 相册
+https://github.com/pengjianbo/GalleryFinal
+
+DragScaleCircleView : 圆形截图 截取大图 OOM
+https://github.com/hpfs0/DragScaleCircleView
+
+PhotoPicker : 相册
+https://github.com/liuling07/PhotoPicker

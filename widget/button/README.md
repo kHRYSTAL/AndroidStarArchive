@@ -2,6 +2,8 @@
 https://github.com/ChadCSong/ShineButton
 https://github.com/ldoublem/ThumbUp
 https://github.com/xhamr/fave-button
+https://github.com/hanks-zyh/SmallBang
+https://github.com/jd-alexander/LikeButton
 
 android-process-button
 https://github.com/dmytrodanylyk/android-process-button

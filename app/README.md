@@ -193,3 +193,15 @@ https://github.com/SmartDengg/SmartDrawing
 
 hellomap3d-android : 3d地图示例
 https://github.com/nutiteq/hellomap3d-android
+
+RxJavaSamples : rxjava 示例
+https://github.com/THEONE10211024/RxJavaSamples
+
+zaina : 环信实现的聊天应用
+https://github.com/vasth/zaina
+
+SimpleNews
+https://github.com/liuling07/SimpleNews
+
+AndroidMVPSample
+https://github.com/WuXiaolong/AndroidMVPSample

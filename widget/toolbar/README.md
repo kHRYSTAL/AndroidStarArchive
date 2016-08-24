@@ -12,3 +12,12 @@ https://github.com/opacapp/multiline-collapsingtoolbar
 
 morphy-toolbar : 带头像的toolbar缩放效果
 https://github.com/badoualy/morphy-toolbar
+
+ToolbarIndicator
+https://github.com/nekocode/ToolbarIndicator
+
+NotBoringActionBar
+https://github.com/flavienlaurent/NotBoringActionBar
+
+GlassActionBar : 给actionbar加上毛玻璃效果
+https://github.com/ManuelPeinado/GlassActionBar

@@ -45,3 +45,9 @@ https://github.com/daikainan/imagecycleview
 
 MultiViewPager : 同屏展示多个viewpager child
 https://github.com/Pixplicity/MultiViewPager
+
+react-native-viewpager
+https://github.com/race604/react-native-viewpager
+
+RealParallaxAndroid : 滑动视差效果
+https://github.com/mallethugo/RealParallaxAndroid

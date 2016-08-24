@@ -33,3 +33,9 @@ https://github.com/chsmy/PopupWindowDialog
 
 Android-NewPopupMenu
 https://github.com/u1aryz/Android-NewPopupMenu
+
+WeiboPopupWindow
+https://github.com/gqdy365/WeiboPopupWindow
+
+KProgressHUD
+https://github.com/Kaopiz/KProgressHUD

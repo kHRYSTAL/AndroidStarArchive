@@ -24,3 +24,6 @@ https://github.com/zaaach/CityPicker
 
 GBSlideBar : 仿uber滴滴滑块
 https://github.com/edanel/GBSlideBar
+
+SortedContactUI
+https://github.com/finddreams/SortedContactUI

@@ -146,6 +146,9 @@ https://github.com/promeG/TinyPinyin
 Android-Download-Manager : 文件下载管理 支持大文件下载 优先级 删除任务等等
 https://github.com/majidgolshadi/Android-Download-Manager-Pro
 
+FileDownloader
+https://github.com/lingochamp/FileDownloader
+
 glide : 图片加载
 https://github.com/bumptech/glide
 
@@ -233,6 +236,9 @@ https://github.com/mikepenz/Android-Iconics
 AppUpdater : Google Play, GitHub, Amazon, F-Droid 或自定义服务器更新应用
 https://github.com/javiersantos/AppUpdater
 
+SmartAppUpdates : 增量更新
+https://github.com/cundong/SmartAppUpdates
+
 App-Architecture
 https://github.com/frodoking/App-Architecture
 
@@ -247,3 +253,30 @@ https://github.com/liaohuqiu/cube-sdk
 
 XDroidRequest : 网络请求
 https://github.com/robinxdroid/XDroidRequest
+
+Genius-Android : 一套ui库
+https://github.com/qiujuer/Genius-Android
+
+SHFragmentManager : 快速实现切换fragment
+https://github.com/smallSohoSolo/SHFragmentManager
+
+scalpel : 调试ui工具 3d显示布局层级
+https://github.com/JakeWharton/scalpel
+
+FastDev4Android : 一套快速开发框架 不支持6.0
+https://github.com/jiangqqlmj/FastDev4Android
+
+Custom-Glide-ModelLoader-Demo
+https://github.com/licheedev/Custom-Glide-ModelLoader-Demo
+
+beecloud-android : 支付sdk
+https://github.com/beecloud/beecloud-android
+
+json2view : 通过json实现view的显示
+https://github.com/Avocarrot/json2view
+
+AndroidVideoCache : 设置视频缓存 兼容VideoView/MediaPlayer,ExoPlayer等
+https://github.com/danikula/AndroidVideoCache
+
+AndroidProcesses : 获取当前进程运行信息
+https://github.com/jaredrummler/AndroidProcesses

@@ -12,3 +12,9 @@ https://github.com/saiff35/LivingTabs
 
 SmartTabLayout
 https://github.com/ogaclejapan/SmartTabLayout
+
+PagerSlidingTabStrip
+https://github.com/ta893115871/PagerSlidingTabStrip
+
+PagerSlidingTabStripPro
+https://github.com/kingideayou/PagerSlidingTabStripPro

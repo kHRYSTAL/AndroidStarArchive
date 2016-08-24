@@ -96,3 +96,12 @@ https://github.com/LuckyJayce/MVCHelper
 
 AnimRefreshRecyclerView
 https://github.com/shichaohui/AnimRefreshRecyclerView
+
+RecyclerViewPager : 使用recyclerview实现viewpager效果
+https://github.com/lsjwzh/RecyclerViewPager
+
+AsymmetricGridView : 多宽度样式网格列表
+https://github.com/felipecsl/AsymmetricGridView
+
+CitySelector : 城市选择器
+https://github.com/chsmy/CitySelector
