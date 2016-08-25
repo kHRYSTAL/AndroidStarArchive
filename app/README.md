@@ -205,3 +205,24 @@ https://github.com/liuling07/SimpleNews
 
 AndroidMVPSample
 https://github.com/WuXiaolong/AndroidMVPSample
+
+StarWars.Android : 颗粒爆炸 reveal 共享元素效果
+https://github.com/Yalantis/StarWars.Android
+
+WeiXinLookImgsDemo : 微信查看图片横滑demo
+https://github.com/Hankkin/WeiXinLookImgsDemo
+
+MPAndroidChartTest : MPAndroidChart示例
+https://github.com/changechenyu/MPAndroidChartTest
+
+meiShi : 视频播放 音乐播放 评论 社交分享项目
+https://github.com/sungerk/meiShi
+
+WeChatLuckyMoney : 微信抢红包插件
+https://github.com/geeeeeeeeek/WeChatLuckyMoney
+
+WayHoo : 威震天气
+https://github.com/way1989/WayHoo
+
+MediaRecorder : 基于javaCV 实现音视频录制断点录制水印等
+https://github.com/wzystal/MediaRecorder

@@ -54,3 +54,12 @@ https://github.com/mallethugo/RealParallaxAndroid
 
 InfiniteCycleViewPager : 支持gallery样式切换 支持多方向 可用于检票等
 https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager
+
+FancyCoverFlow : coverflow z轴倾斜效果
+https://github.com/davidschreiber/FancyCoverFlow
+
+CoverFlow
+https://github.com/moondroid/CoverFlow
+
+HollyViewPager
+https://github.com/florent37/HollyViewPager

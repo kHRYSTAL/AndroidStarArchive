@@ -7,6 +7,9 @@ https://github.com/wujingchao/SimpleTagImageView
 TriangleLabelView : 加标签
 https://github.com/shts/TriangleLabelView
 
+FlycoLabelView
+https://github.com/H07000223/FlycoLabelView
+
 MovingImageView : 支持自动移动
 https://github.com/AlbertGrobas/MovingImageView
 
@@ -54,3 +57,6 @@ https://github.com/wingjay/BlurImageView
 
 NineGridImageView
 https://github.com/laobie/NineGridImageView
+
+android-shape-imageview : 该库圆角图标适用于glide picasso
+https://github.com/siyamed/android-shape-imageview

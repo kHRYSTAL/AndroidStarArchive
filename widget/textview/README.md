@@ -1,6 +1,9 @@
 Markdown : Android 下 markdown 解析器
 https://github.com/zzhoujay/Markdown
 
+AnimTextView : 执行数字动画
+https://github.com/z56402344/AnimTextView
+
 MarkedView-for-Android : Android 下 markdown 解析器
 https://github.com/mittsuu/MarkedView-for-Android
 
@@ -42,3 +45,6 @@ https://github.com/hanks-zyh/HTextView
 
 JumpingBeans : 文字跳动
 https://github.com/frakbot/JumpingBeans
+
+GlidePalette : 通过图片获取调色板 设置textview的背景色和字体色 依赖glide
+https://github.com/florent37/GlidePalette

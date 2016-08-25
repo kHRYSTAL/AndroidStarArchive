@@ -55,3 +55,9 @@ https://github.com/hitherejoe/animate
 
 SignUpTransition : 登录界面动画
 https://github.com/JeasonWong/SignUpTransition
+
+android-transition : 一套view的过渡动效
+https://github.com/kaichunlin/android-transition
+
+TransitionPlayer
+https://github.com/linfaxin/TransitionPlayer

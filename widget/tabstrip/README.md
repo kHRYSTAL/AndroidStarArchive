@@ -21,3 +21,9 @@ https://github.com/kingideayou/PagerSlidingTabStripPro
 
 Space-Navigation-View : 底部导航
 https://github.com/armcha/Space-Navigation-View
+
+TapBarMenu
+https://github.com/michaldrabik/TapBarMenu
+
+SpringIndicator : 配合viewpager 实现tab粘性切换
+https://github.com/chenupt/SpringIndicator

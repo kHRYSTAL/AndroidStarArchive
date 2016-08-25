@@ -60,3 +60,9 @@ https://github.com/hpfs0/DragScaleCircleView
 
 PhotoPicker : 相册
 https://github.com/liuling07/PhotoPicker
+
+glide-transformations : glide transformer实现多种形状和效果
+https://github.com/wasabeef/glide-transformations
+
+SimpleCropView : 截图
+https://github.com/IsseiAoki/SimpleCropView

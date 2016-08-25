@@ -283,3 +283,21 @@ https://github.com/danikula/AndroidVideoCache
 
 AndroidProcesses : 获取当前进程运行信息
 https://github.com/jaredrummler/AndroidProcesses
+
+okhttputils : okhttp辅助类
+https://github.com/hongyangAndroid/okhttputils
+
+UltimateAndroid : 一套快速开发框架
+https://github.com/cymcsg/UltimateAndroid
+
+AndroidBase : 使用MVP与Rxjava对项目进行封装
+https://github.com/huangwm1984/AndroidBase
+
+xUtils3
+https://github.com/wyouflf/xUtils3
+
+KSimpleLibrary
+https://github.com/kot32go/KSimpleLibrary
+
+JavaVerbalExpressions : 正则表达式解析工具
+https://github.com/VerbalExpressions/JavaVerbalExpressions

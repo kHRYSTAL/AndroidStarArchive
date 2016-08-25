@@ -31,5 +31,20 @@ https://github.com/Yalantis/Side-Menu.Android
 DropDownMenu
 https://github.com/dongjunkun/DropDownMenu
 
+DropDownMenu
+https://github.com/JayFang1993/DropDownMenu
+
 MaterialDrawer
 https://github.com/mikepenz/MaterialDrawer
+
+CardMenuView
+https://github.com/Janseon/CardMenuView
+
+BubbleActions : 任意位置弹出气泡菜单
+https://github.com/SamThompson/BubbleActions
+
+BlurNavigationDrawer : 侧滑菜单 下层布局高斯模糊
+https://github.com/charbgr/BlurNavigationDrawer
+
+ExpandableButtonMenu  
+https://github.com/lemonlabs/ExpandableButtonMenu

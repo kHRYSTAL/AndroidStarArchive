@@ -42,3 +42,6 @@ https://github.com/Kaopiz/KProgressHUD
 
 RelativePopupWindow : 任意位置弹出
 https://github.com/kakajika/RelativePopupWindow
+
+DateTimerSelector : 日期 城市选择窗口
+https://github.com/Suaix/DateTimerSelector

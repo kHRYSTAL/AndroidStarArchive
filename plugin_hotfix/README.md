@@ -26,5 +26,13 @@ https://github.com/wequick/Small
 
 https://github.com/iReaderAndroid/ZeusPlugin
 
+https://github.com/limpoxe/Android-Plugin-Framework
+
+https://github.com/singwhatiwanna/dynamic-load-apk
+
+https://github.com/jasonross/Nuwa
+
+https://github.com/DroidPluginTeam/DroidPlugin
+
 TurboDex : 使用插件化开发后 快速加载dex工具
 https://github.com/asLody/TurboDex

@@ -54,3 +54,18 @@ https://github.com/vikramkakkar/DeckView
 
 Android-ObservableScrollView : 监听scrollview实现collaspingtoolbar效果
 https://github.com/ksoichiro/Android-ObservableScrollView
+
+ScrollableLayout 共享头部viewpager
+https://github.com/cpoopc/ScrollableLayout
+
+ChromeLikeSwipeLayout : 下拉时选择执行行为
+https://github.com/ashqal/ChromeLikeSwipeLayout
+
+ToolbarPanel : 从Toolbar弹出另一个布局界面
+https://github.com/NikoYuwono/ToolbarPanel
+
+overscroll-decor : 模拟 iOS 实现滑动到顶部底部还能够滑动的弹性效果
+https://github.com/EverythingMe/overscroll-decor
+
+CoordinatorBehaviorExample : CoordinatorLayout 示例
+https://github.com/saulmm/CoordinatorBehaviorExample

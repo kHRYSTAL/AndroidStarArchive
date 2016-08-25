@@ -89,17 +89,20 @@ https://github.com/Dimezis/BlurView
 AndroidPhotoshopColorPicker : 颜色选择器
 https://github.com/AzeeSoft/AndroidPhotoshopColorPicker
 
-StockChart : 图表 k线图实现(未完成)
+StockChart : 图表 表格 k线图实现(未完成)
 https://github.com/AndroidJiang/StockChart
 
-AChartEngine : 多类型图表实现
+AChartEngine : 多类型图表实现 表格
 https://github.com/wangjia55/AChartEngine
 
-MPAndroidChart : 多类型图表
+MPAndroidChart : 多类型图表 表格
 https://github.com/PhilJay/MPAndroidChart
 
-AndroidCustomView : 股票 线性对比图
+AndroidCustomView : 股票 线性对比图 k线图
 https://github.com/AllenCoder/AndroidCustomView
+
+android-DecoView-charting : 环形表格 饼状图 进度图
+https://github.com/bmarrdev/android-DecoView-charting
 
 ChatKeyboard : 聊天键盘实现 支持录音表情多媒体
 https://github.com/CPPAlien/ChatKeyboard
@@ -136,6 +139,9 @@ https://github.com/square/android-times-square
 
 android-spinnerwheel : 滚轮日期控件
 https://github.com/ai212983/android-spinnerwheel
+
+WheelPicker
+https://github.com/AigeStudio/WheelPicker
 
 CharacterPickerView : 三级联动选择器
 https://github.com/alafighting/CharacterPickerView
@@ -233,6 +239,9 @@ https://github.com/Cutta/GifView
 android-swipecards-view : 仿探探卡片切换
 https://github.com/Arjun-sna/android-swipecards-view
 
+android-card-slide-panel : 仿探探卡片切换
+https://github.com/xmuSistone/android-card-slide-panel
+
 AndroidSwipeableCardStack : 手势卡片切换
 https://github.com/wenchaojiang/AndroidSwipeableCardStack
 
@@ -281,8 +290,11 @@ https://github.com/danielzeller/Depth-LIB-Android-
 WJMagicCurveView
 https://github.com/wingjay/WJMagicCurveView
 
-UndoBar : 支持提示及其他行为的操作栏（Snackbar）
+UndoBar : 支持提示及其他行为的操作栏（已废弃）
 https://github.com/soarcn/UndoBar
+
+Android-UndoBar : 撤销栏 (已废弃)
+https://github.com/jenzz/Android-UndoBar
 
 Highlight : 指向性功能高亮 用于首次进入app功能性提示
 https://github.com/hongyangAndroid/Highlight
@@ -301,6 +313,9 @@ https://github.com/linsea/OpenDanmaku
 
 BGABadgeView-Android : 徽章标签控件 支持QQ未读消息的拖拽效果
 https://github.com/bingoogolapple/BGABadgeView-Android
+
+BezierDemo : 未读消息拖拽效果
+https://github.com/chenupt/BezierDemo
 
 ahbottomnavigation : 底部导航
 https://github.com/aurelhubert/ahbottomnavigation
@@ -376,3 +391,15 @@ https://github.com/Jaouan/CompoundLayout
 
 SignUpTransition : 登录界面动画
 https://github.com/JeasonWong/SignUpTransition
+
+CardMenuView : 卡片菜单
+https://github.com/Janseon/CardMenuView
+
+BGASwipeItemLayout : item侧滑效果
+https://github.com/bingoogolapple/BGASwipeItemLayout-Android
+
+android-transition : 一套view的过渡动效
+https://github.com/kaichunlin/android-transition
+
+TransitionPlayer
+https://github.com/linfaxin/TransitionPlayer

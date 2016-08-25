@@ -10,8 +10,11 @@ https://github.com/YangShaoXiong/LikeSinaSportProgress
 GoogleProgressBar
 https://github.com/jpardogo/GoogleProgressBar
 
-NodeProgressView : 快递节点处理
+NodeProgressView : 快递节点处理 分步 步骤
 https://github.com/aesion/NodeProgressView
+
+Android-StepsView : 分布 步骤
+https://github.com/anton46/Android-StepsView
 
 LoadingView
 https://github.com/ldoublem/LoadingView
@@ -70,7 +73,7 @@ https://github.com/Rogero0o/CatLoadingView
 Android-SpinKit : 一套加载动画
 https://github.com/ybq/Android-SpinKit
 
-ArcProgressStackView : 多环进度条 支持不同速率动画
+ArcProgressStackView : 多环进度条或表格 支持不同速率动画
 https://github.com/DevLight-Mobile-Agency/ArcProgressStackView
 
 RoadRunner
@@ -90,3 +93,12 @@ https://github.com/alorma/TimelineView
 
 SpeedView
 https://github.com/anastr/SpeedView
+
+FlycoPageIndicator
+https://github.com/H07000223/FlycoPageIndicator
+
+MetroLoading
+https://github.com/mmga/MetroLoading
+
+SpringIndicator : 配合viewpager 实现tab粘性切换
+https://github.com/chenupt/SpringIndicator

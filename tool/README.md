@@ -29,6 +29,9 @@ https://github.com/mcxiaoke/gradle-packer-plugin
 android-strings-search-plugin : 通过stringvalue 查找 key
 https://github.com/konifar/android-strings-search-plugin
 
+LayoutCast : Mac下使用该插件支持直接替换资源文件 省去编译耗时
+https://github.com/mmin18/LayoutCast
+
 
 https://github.com/nhachicha/android-native-dependencies
 
@@ -40,6 +43,9 @@ https://github.com/Kotlin/anko
 
 Android-Crack-Tool : 编译 反编译工具集成 （Mac）
 https://github.com/Jermic/Android-Crack-Tool
+
+JustWeEngine : 游戏开发框架
+https://github.com/lfkdsk/JustWeEngine
 
 ### Other
 https://github.com/unbug/codelf
@@ -168,3 +174,5 @@ https://github.com/alex-ko/innocent
 
 gvr-android-sdk : google vr sdk
 https://github.com/googlevr/gvr-android-sdk
+
+https://github.com/codeinthedark/editor

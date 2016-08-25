@@ -111,3 +111,12 @@ https://github.com/wenmingvs/AndroidProcess
 
 HelloLibrary
 https://github.com/icodeu/HelloLibrary
+
+android-training-course-in-chinese : android课程培训中文版
+https://github.com/kesenhoo/android-training-course-in-chinese
+
+Android-Ptr-Comparison : 下拉刷新庫对比
+https://github.com/desmond1121/Android-Ptr-Comparison
+
+gradle-publish : 使用gradle将项目发布到jcenter
+https://github.com/msdx/gradle-publish

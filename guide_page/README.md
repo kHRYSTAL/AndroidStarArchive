@@ -22,5 +22,11 @@ https://github.com/riggaroo/MaterialIntroTutorial
 WoWoViewPager
 https://github.com/Nightonke/WoWoViewPager
 
+guideshow
+https://github.com/javajavadog/guideshow
+
 HighLightGuideView : 指示高亮
 https://github.com/jaydenxiao2016/HighLightGuideView
+
+tooltip-view : 指示图
+https://github.com/venmo/tooltip-view
