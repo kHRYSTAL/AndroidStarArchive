@@ -1,6 +1,13 @@
+https://github.com/lizhangqu/CoreLink
+
 https://github.com/JackyAndroid/AndroidInterview-Q-A
 https://github.com/Mr-YangCheng/ForAndroidInterview
 https://github.com/taizilongxu/interview_python
+
+how-to-make-a-jipai : 五分钟搭建直播业务后端
+https://github.com/JipaiApp/how-to-make-a-jipai
+
+
 
 https://github.com/Juude/Awesome-Android-Architecture
 
@@ -120,3 +127,9 @@ https://github.com/desmond1121/Android-Ptr-Comparison
 
 gradle-publish : 使用gradle将项目发布到jcenter
 https://github.com/msdx/gradle-publish
+
+android-dynamic-load-awesome : 插件化加载对比
+https://github.com/liaohuqiu/android-dynamic-load-awesome
+
+article : 2015年淘宝前端技术文章与解决方案
+https://github.com/amfe/article

@@ -27,3 +27,6 @@ https://github.com/renaudcerrato/FloatingSearchView
 
 HashTagHelper : '#'标签
 https://github.com/danylovolokh/HashTagHelper
+
+BouncyEditText : 输入时hint显示在右侧
+https://github.com/zzz40500/BouncyEditText

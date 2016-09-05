@@ -24,3 +24,6 @@ https://github.com/ManuelPeinado/GlassActionBar
 
 ToolbarPanel : 从Toolbar弹出另一个布局界面
 https://github.com/NikoYuwono/ToolbarPanel
+
+CollapsingAvatarToolbar
+https://github.com/datalink747/CollapsingAvatarToolbar

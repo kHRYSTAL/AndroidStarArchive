@@ -1,3 +1,15 @@
+android-simple-tooltip : 引导 指示高亮
+https://github.com/douglasjunior/android-simple-tooltip
+
+tooltips : 引导 指示
+https://github.com/tomergoldst/tooltips
+
+EasyDialog : 引导 指示
+https://github.com/michaelye/EasyDialog
+
+sweet-alert-dialog
+https://github.com/pedant/sweet-alert-dialog
+
 android-adDialog : 支持角度飞入飞出, 与 viewpager transformer 的Dialog
 https://github.com/yipianfengye/android-adDialog
 

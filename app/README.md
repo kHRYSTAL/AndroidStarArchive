@@ -1,3 +1,15 @@
+Game-of-Thrones : 权利的游戏 介绍app
+https://github.com/tonilopezmr/Game-of-Thrones
+
+RecyclerViewSnap : 24.2.0 SnapHelper 示例
+https://github.com/rubensousa/RecyclerViewSnap
+
+vrview : 7.0 vr示例
+https://github.com/google/vrview
+
+ColorfulNews
+https://github.com/kaku2015/ColorfulNews
+
 OpenEyes : 仿开眼视频 客户端
 https://github.com/xiaohaibin/OpenEyes
 
@@ -226,3 +238,12 @@ https://github.com/way1989/WayHoo
 
 MediaRecorder : 基于javaCV 实现音视频录制断点录制水印等
 https://github.com/wzystal/MediaRecorder
+
+GankDaily : gank日报
+https://github.com/maoruibin/GankDaily
+
+ZhiHuDaily-React-Native
+https://github.com/race604/ZhiHuDaily-React-Native
+
+leancloud-demos : leancloud demo汇总
+https://github.com/leancloud/leancloud-demos

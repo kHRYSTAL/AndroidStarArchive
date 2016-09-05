@@ -13,6 +13,9 @@ https://github.com/jpardogo/GoogleProgressBar
 NodeProgressView : 快递节点处理 分步 步骤
 https://github.com/aesion/NodeProgressView
 
+StepView
+https://github.com/baoyachi/StepView
+
 Android-StepsView : 分布 步骤
 https://github.com/anton46/Android-StepsView
 
@@ -94,11 +97,26 @@ https://github.com/alorma/TimelineView
 SpeedView
 https://github.com/anastr/SpeedView
 
+ColorArcProgressBar : 圆弧进度
+https://github.com/Shinelw/ColorArcProgressBar
+
+RingProgress : 多圆弧进度
+https://github.com/ldoublem/RingProgress
+
+CreditSesameRingView
+https://github.com/HotBitmapGG/CreditSesameRingView
+
 FlycoPageIndicator
 https://github.com/H07000223/FlycoPageIndicator
+
+UltraIndicator : 使用于六个页面的indicator
+https://github.com/andyxialm/UltraIndicator
 
 MetroLoading
 https://github.com/mmga/MetroLoading
 
 SpringIndicator : 配合viewpager 实现tab粘性切换
 https://github.com/chenupt/SpringIndicator
+
+CircleIndicator
+https://github.com/ongakuer/CircleIndicator

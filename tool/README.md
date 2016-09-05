@@ -32,6 +32,9 @@ https://github.com/konifar/android-strings-search-plugin
 LayoutCast : Mac下使用该插件支持直接替换资源文件 省去编译耗时
 https://github.com/mmin18/LayoutCast
 
+TinyPIC_Gradle_Plugin : 批量res图片文件压缩
+https://github.com/mogujie/TinyPIC_Gradle_Plugin
+
 
 https://github.com/nhachicha/android-native-dependencies
 
@@ -176,3 +179,8 @@ gvr-android-sdk : google vr sdk
 https://github.com/googlevr/gvr-android-sdk
 
 https://github.com/codeinthedark/editor
+
+https://github.com/nvbn/thefuck
+
+zstd : facebook新的压缩方法
+https://github.com/facebook/zstd

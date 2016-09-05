@@ -7,6 +7,9 @@ https://github.com/jiahongfei/ViewGroupDemo
 PairScrollView : 支持嵌套两个可以滚动的 view
 https://github.com/angeldevil/PairScrollView
 
+StickyNavLayout : 共享头部 吸附悬停 header支持wrapcontent
+https://github.com/ta893115871/StickyNavLayout
+
 ScrollableLayout : 可滚动布局 toolbar滚动时变换
 https://github.com/w446108264/ScrollableLayout
 
@@ -69,3 +72,9 @@ https://github.com/EverythingMe/overscroll-decor
 
 CoordinatorBehaviorExample : CoordinatorLayout 示例
 https://github.com/saulmm/CoordinatorBehaviorExample
+
+BlurZoomGallery : 透明appbarlayout 背景图片支持高斯模糊效果
+https://github.com/fafaldo/BlurZoomGallery
+
+android-vertical-slide-view : 向上拖拽时 滑动到下一页
+https://github.com/xmuSistone/android-vertical-slide-view

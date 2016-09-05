@@ -146,6 +146,9 @@ https://github.com/promeG/TinyPinyin
 Android-Download-Manager : 文件下载管理 支持大文件下载 优先级 删除任务等等
 https://github.com/majidgolshadi/Android-Download-Manager-Pro
 
+MultiThreadDownload : 通过volley实现的多线程下载器
+https://github.com/Aspsine/MultiThreadDownload
+
 FileDownloader
 https://github.com/lingochamp/FileDownloader
 
@@ -301,3 +304,30 @@ https://github.com/kot32go/KSimpleLibrary
 
 JavaVerbalExpressions : 正则表达式解析工具
 https://github.com/VerbalExpressions/JavaVerbalExpressions
+
+MasteringAndroidDataBinding : view model绑定框架
+https://github.com/LyndonChin/MasteringAndroidDataBinding
+
+android-common
+https://github.com/Trinea/android-common
+
+TinyDancer : 在设备上显示帧数和查询view进行数据绑定时消耗的时间
+https://github.com/friendlyrobotnyc/TinyDancer
+
+AndroidAutoLayout : 适配方案
+https://github.com/hongyangAndroid/AndroidAutoLayout
+
+RxPeople : rxjava实现的用户信息处理
+https://github.com/cesarferreira/RxPeople
+
+easydeviceinfo : 获取设备信息
+https://github.com/nisrulz/easydeviceinfo
+
+HermesEventBus : 进程间通信的eventbus
+https://github.com/eleme/HermesEventBus
+
+Secured-Preference-Store : sharedperference加密
+https://github.com/iamMehedi/Secured-Preference-Store
+
+Leonids : 粒子爆炸效果库
+https://github.com/plattysoft/Leonids

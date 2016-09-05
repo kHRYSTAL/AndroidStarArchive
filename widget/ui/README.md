@@ -1,3 +1,6 @@
+loaderviewlibrary :  数据加载时 textview imageview 的动画效果
+https://github.com/elye/loaderviewlibrary
+
 Parallax-Layer-Layout : 视差动画效果
 https://github.com/SchibstedSpain/Parallax-Layer-Layout
 
@@ -31,6 +34,9 @@ https://github.com/qifengdeqingchen/SeatTable
 SelectMovieSeat : 电影选座
 https://github.com/captain-miao/SelectMovieSeat
 
+DWCinemaAnimation-Android : 电影购票动效实现
+https://github.com/DavidWangTM/DWCinemaAnimation-Android
+
 FlightSeat : 飞机选座
 https://github.com/ldoublem/FlightSeat
 
@@ -40,7 +46,7 @@ https://github.com/nekocode/Emojix
 Android-3DTouch-PeekView : 支持显示在各种位置
 https://github.com/klinker24/Android-3DTouch-PeekView
 
-ScrollNumber : 数字滚动动画控件
+ScrollNumber : 数字滚动动画控件 记分板
 https://github.com/a-voyager/ScrollNumber
 
 MarqueeLayoutLibrary : 支持四个方向滚动的跑马灯
@@ -188,6 +194,9 @@ https://github.com/JakeWharton/DrawerBehavior
 LoadingViewFinal : 下拉刷新 加载更多组件库
 https://github.com/pengjianbo/LoadingViewFinal
 
+SmartisanPull : 锤子下拉刷新
+https://github.com/hougr/SmartisanPull
+
 FunGameRefresh
 https://github.com/Hitomis/FunGameRefresh
 
@@ -311,6 +320,12 @@ https://github.com/zhgeaits/ZGDanmaku
 OpenDanmaku : 弹幕
 https://github.com/linsea/OpenDanmaku
 
+AZBarrage : 弹幕
+https://github.com/Xieyupeng520/AZBarrage
+
+BarrageView : 弹幕
+https://github.com/Anler2015/BarrageView
+
 BGABadgeView-Android : 徽章标签控件 支持QQ未读消息的拖拽效果
 https://github.com/bingoogolapple/BGABadgeView-Android
 
@@ -403,3 +418,9 @@ https://github.com/kaichunlin/android-transition
 
 TransitionPlayer
 https://github.com/linfaxin/TransitionPlayer
+
+BadgeView : 徽章控件 支持字与字 字与图片的过渡
+https://github.com/elevenetc/BadgeView
+
+CreditSesameRingView : 信用度进度图
+https://github.com/HotBitmapGG/CreditSesameRingView

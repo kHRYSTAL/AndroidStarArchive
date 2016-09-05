@@ -1,3 +1,5 @@
+https://github.com/eleme/Amigo
+
 https://github.com/fengjundev/Android-Skin-Loader
 
 https://github.com/asLody/VirtualApp
@@ -33,6 +35,8 @@ https://github.com/singwhatiwanna/dynamic-load-apk
 https://github.com/jasonross/Nuwa
 
 https://github.com/DroidPluginTeam/DroidPlugin
+
+https://github.com/houkx/android-pluginmgr
 
 TurboDex : 使用插件化开发后 快速加载dex工具
 https://github.com/asLody/TurboDex

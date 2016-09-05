@@ -61,3 +61,9 @@ https://github.com/kaichunlin/android-transition
 
 TransitionPlayer
 https://github.com/linfaxin/TransitionPlayer
+
+beauty-treatment-android-animations : 一套动画效果
+https://github.com/JlUgia/beauty-treatment-android-animations
+
+Leonids : 粒子爆炸效果库
+https://github.com/plattysoft/Leonids

@@ -60,3 +60,9 @@ https://github.com/laobie/NineGridImageView
 
 android-shape-imageview : 该库圆角图标适用于glide picasso
 https://github.com/siyamed/android-shape-imageview
+
+BadgedImageview : 给imageview加标签
+https://github.com/yesidlazaro/BadgedImageview
+
+FlexiImageView : 高斯模糊 定制边框阴影 同一空间内显示多图(群聊效果)
+https://github.com/psaravan/FlexiImageView

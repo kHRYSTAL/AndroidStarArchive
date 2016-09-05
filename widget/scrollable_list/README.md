@@ -1,3 +1,6 @@
+RecyclerViewCardGallery : 通过24.2.0SnapHelper实现gallery 每次滑动一个效果
+https://github.com/huazhiyuan2008/RecyclerViewCardGallery
+
 PinnedSectionItemDecoration : 多种效果的stickyheader
 https://github.com/oubowu/PinnedSectionItemDecoration
 
@@ -120,3 +123,12 @@ https://github.com/woozzu/IndexableListView
 
 PullDownListView
 https://github.com/guojunyi/PullDownListView
+
+QuickReturnFooterSample : recyclerview快速滚动到底部例子
+https://github.com/bherbst/QuickReturnFooterSample
+
+FamiliarRecyclerView : 与listview gridview调用方法相同的recyclerview
+https://github.com/iwgang/FamiliarRecyclerView
+
+CommonAdapter : 提供了recyclerview listview gridview viewpager的通用适配器
+https://github.com/tianzhijiexian/CommonAdapter

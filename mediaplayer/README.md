@@ -21,3 +21,6 @@ https://github.com/lipangit/JieCaoVideoPlayer
 
 VideoPlayerManager : 用于列表中播放视频
 https://github.com/danylovolokh/VideoPlayerManager
+
+jjdxm_ijkplayer : 基于ijkplayer 支持RTMP推流
+https://github.com/jjdxmashl/jjdxm_ijkplayer

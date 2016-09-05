@@ -22,8 +22,14 @@ https://github.com/kingideayou/PagerSlidingTabStripPro
 Space-Navigation-View : 底部导航
 https://github.com/armcha/Space-Navigation-View
 
+BottomNavigationBar : 底部导航
+https://github.com/RoyWallace/BottomNavigationBar
+
 TapBarMenu
 https://github.com/michaldrabik/TapBarMenu
 
 SpringIndicator : 配合viewpager 实现tab粘性切换
 https://github.com/chenupt/SpringIndicator
+
+android-segmented-control : radiogroup实现的选项卡
+https://github.com/Kaopiz/android-segmented-control
