@@ -331,3 +331,9 @@ https://github.com/iamMehedi/Secured-Preference-Store
 
 Leonids : 粒子爆炸效果库
 https://github.com/plattysoft/Leonids
+
+afinal : IOC ORM 框架
+https://github.com/yangfuhai/afinal
+
+AirData : ORM 框架
+https://github.com/baoyongzhang/AirData
