@@ -247,3 +247,9 @@ https://github.com/race604/ZhiHuDaily-React-Native
 
 leancloud-demos : leancloud demo汇总
 https://github.com/leancloud/leancloud-demos
+
+Android_Blog_Demos
+https://github.com/hongyangAndroid/Android_Blog_Demos
+
+android_packages_apps_Focal
+https://github.com/xplodwild/android_packages_apps_Focal

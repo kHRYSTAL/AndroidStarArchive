@@ -1,5 +1,7 @@
 ### AndroidStudio 插件
 
+https://github.com/mcharmas/android-parcelable-intellij-plugin
+
 https://github.com/maoruibin/AwesomeAndroidStudioPlugin
 
 wifi调试插件

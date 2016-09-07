@@ -1,3 +1,6 @@
+awesome-android-ui
+https://github.com/wasabeef/awesome-android-ui
+
 loaderviewlibrary :  数据加载时 textview imageview 的动画效果
 https://github.com/elye/loaderviewlibrary
 
@@ -143,6 +146,9 @@ https://github.com/roomorama/Caldroid
 android-times-square : 日历控件
 https://github.com/square/android-times-square
 
+Android-Week-View : 显示一周安排
+https://github.com/alamkanak/Android-Week-View
+
 android-spinnerwheel : 滚轮日期控件
 https://github.com/ai212983/android-spinnerwheel
 
@@ -194,8 +200,20 @@ https://github.com/JakeWharton/DrawerBehavior
 LoadingViewFinal : 下拉刷新 加载更多组件库
 https://github.com/pengjianbo/LoadingViewFinal
 
+android-PullRefreshLayout : 下拉刷新
+https://github.com/baoyongzhang/android-PullRefreshLayout
+
+BeautifulRefreshLayout
+https://github.com/android-cjj/BeautifulRefreshLayout
+
+android-Ultra-Pull-To-Refresh
+https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
+
 SmartisanPull : 锤子下拉刷新
 https://github.com/hougr/SmartisanPull
+
+BGARefreshLayout-Android
+https://github.com/bingoogolapple/BGARefreshLayout-Android
 
 FunGameRefresh
 https://github.com/Hitomis/FunGameRefresh
@@ -424,3 +442,18 @@ https://github.com/elevenetc/BadgeView
 
 CreditSesameRingView : 信用度进度图
 https://github.com/HotBitmapGG/CreditSesameRingView
+
+Android-MaterialDeleteLayout : 粒子删除效果
+https://github.com/android-cjj/Android-MaterialDeleteLayout
+
+android_page_curl : 通过OPENGLES 实现翻页效果
+https://github.com/harism/android_page_curl
+
+BezierCurve :  贝赛尔曲线实现书本翻页效果
+https://github.com/skypanda100/BezierCurve
+
+bitmapMesh
+https://github.com/7heaven/bitmapMesh
+
+AnimatedRandomLayout
+https://github.com/Windsander/AnimatedRandomLayout

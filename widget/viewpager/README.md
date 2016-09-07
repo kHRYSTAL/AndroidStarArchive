@@ -63,3 +63,9 @@ https://github.com/moondroid/CoverFlow
 
 HollyViewPager
 https://github.com/florent37/HollyViewPager
+
+Android-DirectionalViewPager
+https://github.com/JakeWharton/Android-DirectionalViewPager
+
+BGABanner-Android
+https://github.com/bingoogolapple/BGABanner-Android

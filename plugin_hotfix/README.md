@@ -38,5 +38,7 @@ https://github.com/DroidPluginTeam/DroidPlugin
 
 https://github.com/houkx/android-pluginmgr
 
+https://github.com/fengjundev/Android-Skin-Loader
+
 TurboDex : 使用插件化开发后 快速加载dex工具
 https://github.com/asLody/TurboDex

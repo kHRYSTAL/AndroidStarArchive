@@ -24,3 +24,6 @@ https://github.com/danylovolokh/VideoPlayerManager
 
 jjdxm_ijkplayer : 基于ijkplayer 支持RTMP推流
 https://github.com/jjdxmashl/jjdxm_ijkplayer
+
+AndroidVideoPlayer
+https://github.com/xiongwei-git/AndroidVideoPlayer

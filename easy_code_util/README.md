@@ -149,6 +149,9 @@ https://github.com/majidgolshadi/Android-Download-Manager-Pro
 MultiThreadDownload : 通过volley实现的多线程下载器
 https://github.com/Aspsine/MultiThreadDownload
 
+android-downloader : 多线程多任务下载器
+https://github.com/LittlePanpc/android-downloader
+
 FileDownloader
 https://github.com/lingochamp/FileDownloader
 
@@ -337,3 +340,9 @@ https://github.com/yangfuhai/afinal
 
 AirData : ORM 框架
 https://github.com/baoyongzhang/AirData
+
+android-ClipboardManagerCompat : 粘贴板低版本兼容性处理
+https://github.com/liaohuqiu/android-ClipboardManagerCompat
+
+android-percent-support-extend : 百分比布局扩展
+https://github.com/hongyangAndroid/android-percent-support-extend

@@ -66,3 +66,6 @@ https://github.com/wasabeef/glide-transformations
 
 SimpleCropView : 截图
 https://github.com/IsseiAoki/SimpleCropView
+
+android-crop : 截图
+https://github.com/jdamcd/android-crop

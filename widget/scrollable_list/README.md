@@ -132,3 +132,9 @@ https://github.com/iwgang/FamiliarRecyclerView
 
 CommonAdapter : 提供了recyclerview listview gridview viewpager的通用适配器
 https://github.com/tianzhijiexian/CommonAdapter
+
+BGAAdapter-Android : 通用适配器与viewholder
+https://github.com/bingoogolapple/BGAAdapter-Android
+
+BGASwipeItemLayout-Android
+https://github.com/bingoogolapple/BGASwipeItemLayout-Android

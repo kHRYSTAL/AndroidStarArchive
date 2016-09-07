@@ -48,3 +48,9 @@ https://github.com/charbgr/BlurNavigationDrawer
 
 ExpandableButtonMenu  
 https://github.com/lemonlabs/ExpandableButtonMenu
+
+AndroidResideMenu : QQ 侧滑菜单效果
+https://github.com/SpecialCyCi/AndroidResideMenu
+
+AndroidSweetSheet : 贝赛尔曲线实现底部弹出菜单效果
+https://github.com/zzz40500/AndroidSweetSheet

@@ -9,3 +9,12 @@ https://github.com/LightSun/android-drag-FlowLayout
 
 AndroidTagView
 https://github.com/whilu/AndroidTagView
+
+android-tagview
+https://github.com/kaedea/android-tagview
+
+android-flowlayout
+https://github.com/ApmeM/android-flowlayout
+
+AndroidTagGroup
+https://github.com/2dxgujun/AndroidTagGroup
