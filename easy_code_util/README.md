@@ -1,3 +1,24 @@
+ThirtyInch : MVP模式的库
+https://github.com/grandcentrix/ThirtyInch
+
+ActivityRouter : 给activity定义路由url scheme跳转
+https://github.com/mzule/ActivityRouter
+
+material-design-dimens
+https://github.com/DmitryMalkovich/material-design-dimens
+
+Takt : 显示帧数
+https://github.com/wasabeef/Takt
+
+NoHttp: NoHttp??
+https://github.com/yanzhenjie/NoHttp
+
+changeloglib : 应用日志更新工具
+https://github.com/gabrielemariotti/changeloglib
+
+Recovery : crash 恢复方案
+https://github.com/Sunzxyong/Recovery
+
 NotifyUtil
 https://github.com/wenmingvs/NotifyUtil
 
@@ -79,6 +100,9 @@ https://github.com/tbruyelle/RxPermissions
 
 rx-android-permissions : rxjava解决运行时权限
 https://github.com/beworker/rx-android-permissions
+
+AndroidAcp : 运行时权限
+https://github.com/mylhyl/AndroidAcp
 
 PermissionGen
 https://github.com/lovedise/PermissionGen

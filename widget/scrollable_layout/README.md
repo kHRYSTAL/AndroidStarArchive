@@ -1,3 +1,6 @@
+ScrollingBackgroundView : 背景色跟随滚动变换
+https://github.com/noties/ScrollingBackgroundView
+
 RefreashTabView : 多个列表页包含同一个header，列表支持下拉刷新
 https://github.com/FreeSunny/RefreashTabView
 

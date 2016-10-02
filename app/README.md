@@ -1,3 +1,30 @@
+mdcc-client
+https://github.com/Bob1993/mdcc-client
+
+Tuikan
+https://github.com/homcin/Tuikan
+
+simplest_ffmpeg_mobile
+https://github.com/leixiaohua1020/simplest_ffmpeg_mobile
+
+StylishMusicPlayer
+https://github.com/ryanhoo/StylishMusicPlayer
+
+root-tools : root后提供方便的应用
+https://github.com/rarnu/root-tools
+
+bilibili : 仿bilibili客户端
+https://github.com/HotBitmapGG/bilibili
+
+superCleanMaster : android清理大师
+https://github.com/joyoyao/superCleanMaster
+
+LingDong2.0 : 面对面文件快传
+https://github.com/zhoubowen-sky/LingDong2.0
+
+Circle
+https://github.com/lovejjfg/Circle
+
 Game-of-Thrones : 权利的游戏 介绍app
 https://github.com/tonilopezmr/Game-of-Thrones
 

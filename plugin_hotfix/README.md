@@ -1,3 +1,8 @@
+
+https://github.com/dodola/AnoleFix
+
+https://github.com/byteam/delta
+
 https://github.com/eleme/Amigo
 
 https://github.com/fengjundev/Android-Skin-Loader

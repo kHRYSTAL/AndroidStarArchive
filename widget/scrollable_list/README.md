@@ -1,3 +1,9 @@
+DoubleStickyHeadersList
+https://github.com/Kenber/DoubleStickyHeadersList
+
+RetailMeNotList : 视差缩放列表 顶部放大
+https://github.com/iielse/RetailMeNotList
+
 RecyclerViewCardGallery : 通过24.2.0SnapHelper实现gallery 每次滑动一个效果
 https://github.com/huazhiyuan2008/RecyclerViewCardGallery
 
@@ -138,3 +144,6 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 
 BGASwipeItemLayout-Android
 https://github.com/bingoogolapple/BGASwipeItemLayout-Android
+
+HiveLayoutManager : 六边形按边排列蜂窝样式布局 
+https://github.com/Chacojack/HiveLayoutManager

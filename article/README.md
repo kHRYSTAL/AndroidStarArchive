@@ -1,3 +1,12 @@
+https://github.com/ddwhan0123/Useful-Open-Source-Android
+
+AndroidAutoClick : 模拟按键精灵
+https://github.com/minggo620/AndroidAutoClick
+
+
+bilibili-api : bilibili接口
+https://github.com/Vespa314/bilibili-api
+
 https://github.com/lizhangqu/CoreLink
 
 https://github.com/JackyAndroid/AndroidInterview-Q-A
@@ -139,3 +148,5 @@ https://github.com/yanbober/Android-Blog-Source
 
 AndroidHeroes : Android 群英传
 https://github.com/xuyisheng/AndroidHeroes
+
+https://github.com/mikespook/Learning-Go-zh-cn

@@ -1,3 +1,9 @@
+FantasySlide : 弹性侧滑菜单
+https://github.com/mzule/FantasySlide
+
+ThumbnailMenu : 以缩略图形式实现fragment切换菜单
+https://github.com/Hitomis/ThumbnailMenu
+
 FlyoutMenus : 飞入飞出菜单
 https://github.com/ShamylZakariya/FlyoutMenus
 

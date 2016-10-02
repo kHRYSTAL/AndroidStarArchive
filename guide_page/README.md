@@ -1,3 +1,12 @@
+material-intro-screen
+https://github.com/TangoAgency/material-intro-screen
+
+ahoy-onboarding
+https://github.com/codemybrainsout/ahoy-onboarding
+
+TapTargetView : 显示引导tip
+https://github.com/KeepSafe/TapTargetView
+
 Onboarding
 https://github.com/eoinfogarty/Onboarding
 

@@ -4,7 +4,7 @@
 方便查询
 
 
-### [开源项目](https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/anim)
+### [开源应用](https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/app)
 
 ### [文章](https://github.com/kHRYSTAL/AndroidStarArchive/tree/master/article)
 

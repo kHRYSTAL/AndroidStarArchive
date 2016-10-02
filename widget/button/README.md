@@ -1,3 +1,6 @@
+QuickReturn : 快速返回按钮
+https://github.com/lawloretienne/QuickReturn
+
 点赞按钮
 https://github.com/ChadCSong/ShineButton
 https://github.com/ldoublem/ThumbUp

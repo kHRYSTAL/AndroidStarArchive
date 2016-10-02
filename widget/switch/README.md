@@ -1,3 +1,6 @@
+DayNightSwitch : 夜间模式切换按钮
+https://github.com/finngaida/DayNightSwitch
+
 FunSwitch
 https://github.com/ztelur/FunSwitch
 

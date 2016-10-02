@@ -1,3 +1,9 @@
+SmoothProgressBar
+https://github.com/castorflex/SmoothProgressBar
+
+ProgressRoundButton : 下载进度按钮
+https://github.com/cctanfujun/ProgressRoundButton
+
 SmileyLoadingView
 https://github.com/andyxialm/SmileyLoadingView
 

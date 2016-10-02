@@ -11,3 +11,6 @@ https://github.com/ChrisKyle/CKCamera
 
 SquareCamera
 https://github.com/boxme/SquareCamera
+
+cameraview
+https://github.com/google/cameraview

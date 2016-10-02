@@ -1,3 +1,6 @@
+FrescoImageViewer
+https://github.com/stfalcon-studio/FrescoImageViewer
+
 RoundedImageView : 圆角图片
 https://github.com/vinc3m1/RoundedImageView
 

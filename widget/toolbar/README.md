@@ -1,3 +1,9 @@
+SmoothAnimateToolbar
+https://github.com/andyxialm/SmoothAnimateToolbar
+
+FoldingTabBar.Android : toolbar与floating按钮切换
+https://github.com/tosslife/FoldingTabBar.Android
+
 FlycoSystemBar
 https://github.com/H07000223/FlycoSystemBar
 

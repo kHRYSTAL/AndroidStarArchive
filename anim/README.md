@@ -1,3 +1,6 @@
+CannyViewAnimator
+https://github.com/LiveTyping/CannyViewAnimator
+
 BezierMaker : n阶贝塞尔曲线
 https://github.com/venshine/BezierMaker
 
@@ -67,3 +70,6 @@ https://github.com/JlUgia/beauty-treatment-android-animations
 
 Leonids : 粒子爆炸效果库
 https://github.com/plattysoft/Leonids
+
+confetti : 粒子效果
+https://github.com/jinatonic/confetti

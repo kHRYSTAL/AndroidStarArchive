@@ -52,6 +52,12 @@ https://github.com/Jermic/Android-Crack-Tool
 JustWeEngine : 游戏开发框架
 https://github.com/lfkdsk/JustWeEngine
 
+freeline : Android 平台秒级编译方案
+https://github.com/alibaba/freeline
+
+iPicUploader : 图片上传
+https://github.com/toolinbox/iPicUploader
+
 ### Other
 https://github.com/unbug/codelf
 
@@ -184,5 +190,23 @@ https://github.com/codeinthedark/editor
 
 https://github.com/nvbn/thefuck
 
+SeimiCrawler : python爬虫框架
+https://github.com/zhegexiaohuozi/SeimiCrawler
+
 zstd : facebook新的压缩方法
 https://github.com/facebook/zstd
+
+https://github.com/ycwalker/CMS-of-Blog
+
+DouBanSpider : 豆瓣爬虫
+https://github.com/lanbing510/DouBanSpider
+
+https://github.com/llazzaro/packyou
+
+https://github.com/fancymax/12306ForMac
+
+wechat-spider : 微信公众号爬虫
+https://github.com/bowenpay/wechat-spider
+
+face-generator : 人脸生成
+https://github.com/aleju/face-generator
