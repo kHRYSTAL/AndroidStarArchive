@@ -1,3 +1,6 @@
+Sensey :
+https://github.com/nisrulz/sensey
+
 ThirtyInch : MVP模式的库
 https://github.com/grandcentrix/ThirtyInch
 
@@ -370,6 +373,3 @@ https://github.com/liaohuqiu/android-ClipboardManagerCompat
 
 android-percent-support-extend : 百分比布局扩展
 https://github.com/hongyangAndroid/android-percent-support-extend
-
-Sensey : 
-https://github.com/nisrulz/sensey
