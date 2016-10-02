@@ -370,3 +370,6 @@ https://github.com/liaohuqiu/android-ClipboardManagerCompat
 
 android-percent-support-extend : 百分比布局扩展
 https://github.com/hongyangAndroid/android-percent-support-extend
+
+Sensey : 
+https://github.com/nisrulz/sensey
