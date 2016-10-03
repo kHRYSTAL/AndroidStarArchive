@@ -1,3 +1,5 @@
+https://github.com/MDCC2016/Android-Session-Slides
+
 https://github.com/ddwhan0123/Useful-Open-Source-Android
 
 AndroidAutoClick : 模拟按键精灵

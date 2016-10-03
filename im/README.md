@@ -21,3 +21,6 @@ https://github.com/easemob/sdkexamples-android
 
 Asmack-Demo : smack openfire demo
 https://github.com/TracyZhangLei/Asmack-Demo
+
+sdkdemoapp3.0_android :环信 3.0 demo
+https://github.com/easemob/sdkdemoapp3.0_android

@@ -1,3 +1,6 @@
+NaturalAnim
+https://github.com/xuyisheng/NaturalAnim
+
 CannyViewAnimator
 https://github.com/LiveTyping/CannyViewAnimator
 

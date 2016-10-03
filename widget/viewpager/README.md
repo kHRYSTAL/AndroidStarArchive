@@ -1,3 +1,9 @@
+android-page-transition
+https://github.com/xmuSistone/android-page-transition
+
+CarouselView : 3D切换效果
+https://github.com/binaryroot/CarouselView
+
 MaterialViewPager
 https://github.com/florent37/MaterialViewPager
 

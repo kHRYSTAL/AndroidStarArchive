@@ -1,3 +1,4 @@
+https://github.com/Tencent/tinker
 
 https://github.com/dodola/AnoleFix
 

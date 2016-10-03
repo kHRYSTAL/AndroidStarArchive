@@ -1,3 +1,6 @@
+live-emoji
+https://github.com/RomainPiel/live-emoji
+
 GoogleClock : 谷歌时钟
 https://github.com/lypeer/GoogleClock
 
@@ -12,6 +15,9 @@ https://github.com/SchibstedSpain/Parallax-Layer-Layout
 
 android-ui : 遵循MD的交互控件
 https://github.com/markushi/android-ui
+
+android-FlipView
+https://github.com/emilsjolander/android-FlipView
 
 FabricView : 绘图控件
 https://github.com/antwankakki/FabricView

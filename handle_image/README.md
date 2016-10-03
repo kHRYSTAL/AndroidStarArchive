@@ -1,3 +1,6 @@
+JikeGallery : 垂直平滑切换动画
+https://github.com/JeasonWong/JikeGallery
+
 TedBottomPicker
 https://github.com/ParkSangGwon/TedBottomPicker
 
@@ -51,6 +54,9 @@ https://github.com/Yalantis/uCrop
 
 PhotoCompress
 https://github.com/fanyu2013/PhotoCompress
+
+RealtimeBlurView
+https://github.com/mmin18/RealtimeBlurView
 
 ImageBlurring : 高斯模糊
 https://github.com/qiujuer/ImageBlurring

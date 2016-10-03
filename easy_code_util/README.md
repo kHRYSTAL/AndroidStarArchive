@@ -1,3 +1,9 @@
+AESCrypt-Android
+https://github.com/scottyab/AESCrypt-Android
+
+DesignResCollection
+https://github.com/boredream/DesignResCollection
+
 Sensey :
 https://github.com/nisrulz/sensey
 
