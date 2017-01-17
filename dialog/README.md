@@ -60,3 +60,6 @@ https://github.com/kakajika/RelativePopupWindow
 
 DateTimerSelector : 日期 城市选择窗口
 https://github.com/Suaix/DateTimerSelector
+
+AnimatorDurationTile : FAB 与dialog变换交互
+https://github.com/nickbutcher/AnimatorDurationTile

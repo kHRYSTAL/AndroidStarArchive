@@ -46,5 +46,8 @@ https://github.com/houkx/android-pluginmgr
 
 https://github.com/fengjundev/Android-Skin-Loader
 
+ReLinker : robust热修复方案
+https://github.com/KeepSafe/ReLinker
+
 TurboDex : 使用插件化开发后 快速加载dex工具
 https://github.com/asLody/TurboDex

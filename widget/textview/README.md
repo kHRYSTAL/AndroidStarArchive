@@ -48,3 +48,9 @@ https://github.com/frakbot/JumpingBeans
 
 GlidePalette : 通过图片获取调色板 设置textview的背景色和字体色 依赖glide
 https://github.com/florent37/GlidePalette
+
+UnderLineLinkTextView : spannable扩展有下划线可点击的textview
+https://github.com/wangshaolei/UnderLineLinkTextView
+
+AutoFitTextView : 根据控件大小自动变换文字大小的textview
+https://github.com/AndroidDeveloperLB/AutoFitTextView

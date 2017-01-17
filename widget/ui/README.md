@@ -212,6 +212,9 @@ https://github.com/JakeWharton/DrawerBehavior
 LoadingViewFinal : 下拉刷新 加载更多组件库
 https://github.com/pengjianbo/LoadingViewFinal
 
+TwinklingRefreshLayout : 下拉刷新
+https://github.com/lcodecorex/TwinklingRefreshLayout
+
 android-PullRefreshLayout : 下拉刷新
 https://github.com/baoyongzhang/android-PullRefreshLayout
 
@@ -472,3 +475,24 @@ https://github.com/Windsander/AnimatedRandomLayout
 
 CouponView : 邮票锯齿边缘ui
 https://github.com/dongjunkun/CouponView
+
+multiwindow : 仿uc浏览器多窗口
+https://github.com/wubolinha/multiwindow
+
+appbarlayout-spring-behavior : appbarlayout 背景弹性下拉
+https://github.com/ToDou/appbarlayout-spring-behavior
+
+shadow-layout : 给控件增加边界阴影
+https://github.com/dmytrodanylyk/shadow-layout
+
+BigBang : 仿锤子 bigbang功能
+https://github.com/baoyongzhang/BigBang
+
+OneStep : 仿锤子 onestep动画
+https://github.com/android-cjj/OneStep
+
+MaterialRatingBar : material评分打分条
+https://github.com/DreaminginCodeZH/MaterialRatingBar
+
+TransitionHelper : 共享元素工具实现页面切换动画
+https://github.com/ImmortalZ/TransitionHelper

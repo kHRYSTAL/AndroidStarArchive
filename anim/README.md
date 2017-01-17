@@ -76,3 +76,12 @@ https://github.com/plattysoft/Leonids
 
 confetti : 粒子效果
 https://github.com/jinatonic/confetti
+
+自然动画的真实模拟
+https://github.com/xuyisheng/NaturalAnim
+
+ImageTransition : 图像过渡动画
+https://github.com/vikramkakkar/ImageTransition
+
+TransitionHelper : 共享元素工具实现页面切换动画
+https://github.com/ImmortalZ/TransitionHelper

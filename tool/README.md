@@ -13,6 +13,9 @@ https://github.com/zzz40500/GsonFormat
 butterknife替换插件
 https://github.com/u3shadow/RemoveButterKnife
 
+MVPHelper
+https://github.com/githubwing/MVPHelper
+
 英文翻译插件
 https://github.com/Skykai521/ECTranslation
 
@@ -210,3 +213,24 @@ https://github.com/bowenpay/wechat-spider
 
 face-generator : 人脸生成
 https://github.com/aleju/face-generator
+
+Wpf-BilibiliVideoFetcher : 获取bilibili视频下载地址
+https://github.com/Meloduet/Wpf-BilibiliVideoFetcher
+
+neural-style : python 生成neural风格图片
+https://github.com/anishathalye/neural-style
+
+FontZip : 字体压缩 ttf压缩
+https://github.com/forJrking/FontZip
+
+asyncload: 异步并行加载
+https://github.com/alibaba/asyncload
+
+leanote : nodejs实现的编辑器
+https://github.com/leanote/leanote
+
+RAP : 接口文档管理工具
+https://github.com/thx/RAP
+
+Lightweight-Stream-API : 在低版本jdk上实现java8 streamapi
+https://github.com/aNNiMON/Lightweight-Stream-API

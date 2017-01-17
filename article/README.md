@@ -152,3 +152,21 @@ AndroidHeroes : Android 群英传
 https://github.com/xuyisheng/AndroidHeroes
 
 https://github.com/mikespook/Learning-Go-zh-cn
+
+ProgrammingProjectList : 练手项目列表
+https://github.com/jobbole/ProgrammingProjectList
+
+TimLiu-Python : python资源集合与开源工具
+https://github.com/Tim9Liu9/TimLiu-Python
+
+Lee-VR-Source : vr开发资源汇总
+https://github.com/GeekLiB/Lee-VR-Source
+
+google-interview-university
+https://github.com/jwasham/google-interview-university
+
+BilibiliAPIDocs : bilibili开放接口文档
+https://github.com/fython/BilibiliAPIDocs
+
+codereader : 源码解析
+https://github.com/ymgd/codereader

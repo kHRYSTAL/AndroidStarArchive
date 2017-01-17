@@ -14,3 +14,6 @@ https://github.com/boxme/SquareCamera
 
 cameraview
 https://github.com/google/cameraview
+
+WxRecoderVideo : 基于VCamera，仿微信录制短视频
+https://github.com/maimingliang/WxRecoderVideo

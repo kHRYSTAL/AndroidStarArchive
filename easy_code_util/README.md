@@ -113,6 +113,9 @@ https://github.com/beworker/rx-android-permissions
 AndroidAcp : 运行时权限
 https://github.com/mylhyl/AndroidAcp
 
+Permissify : 运行时权限
+https://github.com/holidaycheck/Permissify
+
 PermissionGen
 https://github.com/lovedise/PermissionGen
 
@@ -181,6 +184,9 @@ https://github.com/majidgolshadi/Android-Download-Manager-Pro
 
 MultiThreadDownload : 通过volley实现的多线程下载器
 https://github.com/Aspsine/MultiThreadDownload
+
+ThinDownloadManager
+https://github.com/smanikandan14/ThinDownloadManager
 
 android-downloader : 多线程多任务下载器
 https://github.com/LittlePanpc/android-downloader
@@ -272,11 +278,17 @@ https://github.com/JiongBull/jlog
 LoganSquare : 解析json速度最快
 https://github.com/bluelinelabs/LoganSquare
 
+jackson : json解析
+https://github.com/FasterXML/jackson
+
 Android-Iconics : 在app中使用一个图标实现多颜色多尺寸适配
 https://github.com/mikepenz/Android-Iconics
 
 AppUpdater : Google Play, GitHub, Amazon, F-Droid 或自定义服务器更新应用
 https://github.com/javiersantos/AppUpdater
+
+force-update : 强制更新
+https://github.com/skoumalcz/force-update
 
 SmartAppUpdates : 增量更新
 https://github.com/cundong/SmartAppUpdates
@@ -379,3 +391,12 @@ https://github.com/liaohuqiu/android-ClipboardManagerCompat
 
 android-percent-support-extend : 百分比布局扩展
 https://github.com/hongyangAndroid/android-percent-support-extend
+
+AndroidHttpCapture : 客户端抓包工具
+https://github.com/JZ-Darkal/AndroidHttpCapture
+
+MultiType-FilePicker : 多类型文件选择器
+https://github.com/fishwjy/MultiType-FilePicker
+
+TransitionHelper : 共享元素工具实现页面切换动画
+https://github.com/ImmortalZ/TransitionHelper

@@ -33,3 +33,9 @@ https://github.com/danylovolokh/HashTagHelper
 
 BouncyEditText : 输入时hint显示在右侧
 https://github.com/zzz40500/BouncyEditText
+
+icarus-android : 富文本编辑器
+https://github.com/mr5/icarus-android
+
+richeditor-android : 富文本编辑器
+https://github.com/wasabeef/richeditor-android

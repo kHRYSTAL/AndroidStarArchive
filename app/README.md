@@ -124,11 +124,20 @@ https://github.com/biezhihua/DYTT
 BasePedo : 计步器
 https://github.com/xfmax/BasePedo
 
+DylanStepCount : 精准计步器
+https://github.com/linglongxin24/DylanStepCount
+
+android-pedometer : 计步器
+https://github.com/bagilevi/android-pedometer
+
 DMPlayer : 音乐播放器
 https://github.com/dibakarece/DMPlayer
 
 StickerCamera : 相机应用
 https://github.com/Skykai521/StickerCamera
+
+AndroidHttpCapture : 客户端抓包工具
+https://github.com/JZ-Darkal/AndroidHttpCapture
 
 my_android_lottery : 彩票客户端(项目比较老 接口都没了)
 https://github.com/flystaros/my_android_lottery
@@ -245,6 +254,9 @@ https://github.com/THEONE10211024/RxJavaSamples
 zaina : 环信实现的聊天应用
 https://github.com/vasth/zaina
 
+环信3.0 demo
+https://github.com/easemob/sdkdemoapp3.0_android
+
 SimpleNews
 https://github.com/liuling07/SimpleNews
 
@@ -286,3 +298,27 @@ https://github.com/hongyangAndroid/Android_Blog_Demos
 
 android_packages_apps_Focal
 https://github.com/xplodwild/android_packages_apps_Focal
+
+GaGaMall : RN开发嘎嘎商城客户端
+https://github.com/gagakj/GaGaMall
+
+RN-ListViewLoadMore : RN基础项目
+https://github.com/yongqianvip/RN-ListViewLoadMore
+
+LeisureRead : 闲读app
+https://github.com/HotBitmapGG/LeisureRead
+
+FBReaderJ : 文本阅读器
+https://github.com/geometer/FBReaderJ
+
+android-PdfRendererBasic : pdf阅读器
+https://github.com/googlesamples/android-PdfRendererBasic
+
+FunctionalAndroidReference : 使用rxjava实现的项目
+https://github.com/pakoito/FunctionalAndroidReference
+
+PhotoNoter : 照片笔记
+https://github.com/yydcdut/PhotoNoter
+
+AndroidShortcuts : v25中快捷方式示例
+https://github.com/pcevikogullari/AndroidShortcuts

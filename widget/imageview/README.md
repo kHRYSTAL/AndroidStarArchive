@@ -69,3 +69,6 @@ https://github.com/yesidlazaro/BadgedImageview
 
 FlexiImageView : 高斯模糊 定制边框阴影 同一空间内显示多图(群聊效果)
 https://github.com/psaravan/FlexiImageView
+
+CropperNoCropper : 可剪裁
+https://github.com/jayrambhia/CropperNoCropper

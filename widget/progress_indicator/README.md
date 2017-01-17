@@ -19,6 +19,9 @@ https://github.com/jpardogo/GoogleProgressBar
 NodeProgressView : 快递节点处理 分步 步骤
 https://github.com/aesion/NodeProgressView
 
+BreadcrumbsView
+https://github.com/VictorAlbertos/BreadcrumbsView
+
 Android-StepsView
 https://github.com/anton46/Android-StepsView
 
@@ -60,6 +63,9 @@ https://github.com/Hitomis/SunBaby
 
 WaveProgressView : 水波纹动画
 https://github.com/zeng1990java/WaveProgressView
+
+WaveView : 水波纹动画
+https://github.com/john990/WaveView
 
 MeiTuanRefreshListView : 仿美团下拉刷新动画
 https://github.com/nugongshou110/MeiTuanRefreshListView
@@ -129,3 +135,15 @@ https://github.com/chenupt/SpringIndicator
 
 CircleIndicator
 https://github.com/ongakuer/CircleIndicator
+
+FreshDownloadView
+https://github.com/dudu90/FreshDownloadView
+
+CutoLoadingView
+https://github.com/andyxialm/CutoLoadingView
+
+Material-ViewPagerIndicator
+https://github.com/ronaldsmartin/Material-ViewPagerIndicator
+
+PageIndicatorView
+https://github.com/romandanylyk/PageIndicatorView
