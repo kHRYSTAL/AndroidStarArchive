@@ -147,3 +147,6 @@ https://github.com/ronaldsmartin/Material-ViewPagerIndicator
 
 PageIndicatorView
 https://github.com/romandanylyk/PageIndicatorView
+
+MarkView
+https://github.com/xiprox/MarkView

@@ -322,3 +322,24 @@ https://github.com/yydcdut/PhotoNoter
 
 AndroidShortcuts : v25中快捷方式示例
 https://github.com/pcevikogullari/AndroidShortcuts
+
+android_packages_apps_Focal : 相机应用
+https://github.com/xplodwild/android_packages_apps_Focal
+
+FileExplorer : MIUI 文件管理器开源版
+https://github.com/MiCode/FileExplorer
+
+MediaRecorder : 视频录制
+https://github.com/wzystal/MediaRecorder
+
+android-layout-samples : 自定义示例
+https://github.com/lucasr/android-layout-samples
+
+ComicReader : 漫画app
+https://github.com/android-cjj/ComicReader
+
+RetrofitExample : retrofit示例
+https://github.com/traex/RetrofitExample
+
+NightModel : 夜间模式示例
+https://github.com/kHRYSTAL/NightModel

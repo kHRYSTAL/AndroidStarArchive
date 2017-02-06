@@ -61,8 +61,11 @@ https://github.com/bpncool/SectionedExpandableGridRecyclerView
 ListViewAnimations : listview各种手势效果
 https://github.com/nhaarman/ListViewAnimations
 
-ParallaxListView : 下拉头部视察效果
+ParallaxListView : 下拉头部视差效果
 https://github.com/Gnod/ParallaxListView
+
+ParallaxListView : 下拉头部视差效果
+https://github.com/yayaa/ParallaxListView
 
 IndexRecyclerView : 联系人列表
 https://github.com/jiang111/IndexRecyclerView
@@ -145,5 +148,14 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 BGASwipeItemLayout-Android
 https://github.com/bingoogolapple/BGASwipeItemLayout-Android
 
-HiveLayoutManager : 六边形按边排列蜂窝样式布局 
+HiveLayoutManager : 六边形按边排列蜂窝样式布局
 https://github.com/Chacojack/HiveLayoutManager
+
+ExpandableListView
+https://github.com/harishsn/ExpandableListView
+
+XListView-Android : 支持下拉刷新的listview(停止维护)
+https://github.com/Maxwin-z/XListView-Android
+
+RecyclerViewHeader
+https://github.com/blipinsk/RecyclerViewHeader

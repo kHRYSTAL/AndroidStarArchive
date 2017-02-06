@@ -4,6 +4,9 @@ https://github.com/mcharmas/android-parcelable-intellij-plugin
 
 https://github.com/maoruibin/AwesomeAndroidStudioPlugin
 
+android-parcelable-intellij-plugin : 生成parceable化实体类
+https://github.com/mcharmas/android-parcelable-intellij-plugin
+
 wifi调试插件
 https://github.com/pedrovgs/AndroidWiFiADB
 
@@ -234,3 +237,6 @@ https://github.com/thx/RAP
 
 Lightweight-Stream-API : 在低版本jdk上实现java8 streamapi
 https://github.com/aNNiMON/Lightweight-Stream-API
+
+youku-lixian : 优酷下载脚本
+https://github.com/iambus/youku-lixian

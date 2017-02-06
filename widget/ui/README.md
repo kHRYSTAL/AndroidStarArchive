@@ -116,7 +116,10 @@ https://github.com/robinhood/spark
 AChartEngine : 多类型图表实现 表格
 https://github.com/wangjia55/AChartEngine
 
-MPAndroidChart : 多类型图表 表格
+smooth-line-chart : 平滑曲线图
+https://github.com/PaoloConte/smooth-line-chart
+
+MPAndroidChart : 多类型图表 表格(示例 https://github.com/JeffWangGithub/MPChartSample)
 https://github.com/PhilJay/MPAndroidChart
 
 AndroidCustomView : 股票 线性对比图 k线图
@@ -421,6 +424,9 @@ https://github.com/adhamenaya/AndroidMosaicLayout
 
 SpiderWebScoreView : 蜘蛛网评分 能力值
 https://github.com/xiaopansky/SpiderWebScoreView
+
+StarBar : 打分条
+https://github.com/badoo/StarBar
 
 MathView : 通过webview显示数学公式
 https://github.com/kexanie/MathView

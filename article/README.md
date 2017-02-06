@@ -170,3 +170,6 @@ https://github.com/fython/BilibiliAPIDocs
 
 codereader : 源码解析
 https://github.com/ymgd/codereader
+
+Learn-Algorithms : 算法学习笔记
+https://github.com/kHRYSTAL/Learn-Algorithms
